@@ -22,16 +22,16 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
+<b>Objetivo Geral da Plataforma</b> - A plataforma deve ser um recurso onde qualquer pessoa possa acessar informações detalhadas e atualizadas sobre o evento ...
 </p>
  
-<b>ZZZ</b> - A plataforma deve fornece...
+<b>Informações Fornecidas</b> - A plataforma deve fornecer informações sobre atrações, localização, horários, opções de alimentação, e outras facilidades disponíveis no evento.
  
-<b>YYYY</b> - O objetivo da aplicação é....
+<b>Melhoria da Experiência</b> -O objetivo da aplicação é melhorar a experiência dos frequentadores do evento, tornando as informações e serviços acessíveis de maneira fácil e eficiente.
  
-<b>WWWW</b> - O principal objetivo da aplicação é a...
+<b>Centralização de Informações</b> - O principal objetivo da aplicação é a centralização de informações e serviços relacionados ao evento, oferecendo uma experiência mais organizada e interativa para os usuários.
  
-<b>KKKK</b> - A plataforma deve gerenciar...
+<b>Gerenciamento da Plataforma</b> - A plataforma deve gerenciar a exibição de informações em tempo real, a localização das atrações e a interação dos usuários com o conteúdo e serviços oferecidos.
 </p>
  
 ---
@@ -39,15 +39,15 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 2. Como será o processo para cadastrar um novo clientetorneio?
  
 <p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
+<b>Acesso à Área de Administração</b> - O organizador deverá fazer login e acessar a área de administração da plataforma para iniciar o processo de cadastro de um novo torneio.
  
-<b>YYYY</b> - O cliente...
+<b>Preenchimento de Informações do Evento</b> - O organizador do evento preencherá um formulário com detalhes sobre o torneio, incluindo nome, descrição, datas, localizações e informações relevantes.
  
 <b>WWWW</b> - Com o usuário logado, ele deverá...
 
-<b>ZZZZ</b> - O cliente...
+<b>Gerenciamento de Informações</b> - O organizador poderá editar, atualizar ou remover informações sobre o evento conforme necessário, utilizando o painel de administração disponível na plataforma.
  
-<b>KKK</b> - O cliente...
+<b>Confirmação do Cadastro</b> -O cliente receberá uma confirmação de que o evento foi cadastrado com sucesso e poderá acessar a plataforma para vizualizar as informações do evento.
  
 ---
  
@@ -71,11 +71,11 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 4. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
-<b>XXXX</b> - Com a localização...
+<b>Localização e Mapas Interativos</b> - Com a localização fornecida, a plataforma deve oferecer mapas interativos e direções para ajudar os usuários a encontrar as atrações e serviços no local do evento.
  
-<b>YYYY</b> - O cliente...
+<b>Atualizações em Tempo Real</b> - O cliente poderá vizualizar informações em tempo real, como horários de eventos, mudanças na programação e outros detalhes relevantes para o bom andamento do evento.
  
-<b>ZZZ</b> - O cliente...
+<b>Notificações e Alertas</b> - O cliente poderá configurar notificações para ser alertado sobre eventos importantes, promoções ou mudanças na programação.
  
 ---
  
@@ -86,11 +86,11 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 ### 6. Quais informações seriam interessante para o cliente?
 <p align = "justify">
-   <b>XXX</b> - Informações...
+   <b>Informações Relevantes sobre o Evento</b> - Informações sobre a programação do evento, localização das atrações, opções de alimentação e bebidas, mapas interativos e detalhes sobre participantes ou competidores.
    
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
-
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
+   <b>Acesso a Detalhes do Evento</b> - O cliente usuário poderá acessar informações sobre horários dos eventos, locais das competições e serviços disponíveis no evento.
+   
+   <b>Informações Adicionais</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas para planejar melhor sua participação e visualização dos eventos.
    
 </p>
  
