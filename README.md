@@ -6,9 +6,9 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Wave Breaking<br>
 
-**Número do Grupo**: Wave Breaking<br>
+**Número do Grupo**: II
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
