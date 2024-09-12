@@ -14,7 +14,8 @@
 
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais.
+Uma plataforma com informações detalhadas e atualizadas sobre o evento ... - Como informações sobre atrações, localização, horários, opções de alimentação, e outras facilidades disponíveis no evento.
+O objetivo da aplicação é melhorar a experiência dos frequentadores do evento, tornando as informações e serviços acessíveis de maneira fácil e eficiente.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
