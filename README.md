@@ -15,7 +15,9 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 |Matrícula | Aluno |
 | -- | -- |
 | 202402173031  |  Viktor Mayer Berruezo |
-| 202401000671  |  Gabriel Couto Barros |
+| 202401000671  |  Gabriel Couto Barros  |
+| xxxxxxxxxxxx  |  xxxxxxxxxxxxxxxxxxxxx |
+
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
