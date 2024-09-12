@@ -16,7 +16,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 | -- | -- |
 | 202402173031  |  Viktor Mayer Berruezo |
 | 202401000671  |  Gabriel Couto Barros  |
-| xxxxxxxxxxxx  |  xxxxxxxxxxxxxxxxxxxxx |
+| 202402103253  |Rodrigo de Sousa Ferrett|
 | xxxxxxxxxxxx  |  xxxxxxxxxxxxxxxxxxxxx |
 | xxxxxxxxxxxx  |  xxxxxxxxxxxxxxxxxxxxx |
 
