@@ -22,7 +22,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Descreva o seu projeto em linhas gerais.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
