@@ -14,7 +14,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 202402173031  |  Viktor Mayer Berruezo |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
