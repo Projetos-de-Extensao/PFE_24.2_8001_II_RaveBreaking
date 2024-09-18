@@ -14,7 +14,7 @@
 
 
 ## Sobre 
-Uma plataforma com informações detalhadas e atualizadas sobre o evento ... - Como informações sobre atrações, localização, horários, opções de alimentação, e outras facilidades disponíveis no evento.
+Uma plataforma com informações detalhadas e atualizadas sobre o evento LollaPalooza, que ocorrerá em São Paulo em 2025 - Como informações sobre atrações, localização, horários, opções de alimentação, e outras facilidades disponíveis no evento.
 O objetivo da aplicação é melhorar a experiência dos frequentadores do evento, tornando as informações e serviços acessíveis de maneira fácil e eficiente.
 
 ## Screenshots
