@@ -11,35 +11,35 @@ O propósito deste documento é fornecer uma visão geral sobre o projeto que se
 ## Descrição do Problema 
 
 <p align = "justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+O Lollapalooza é um dos maiores festivais de música alternativa da america latina, com um público médio de mais de 200 mil pessoas. O evento ocorre anualmente em São Paulo, é composto por gêneros como rock alternativo, heavy metal, punk rock, grunge e performances de comédia e danças, além de estandes de artesanato. Com um público médio de mais de 200 mill pessoas é normal que o público se sinta perdido num evento dessa magnitude, são diversas atrações, dias diferentes e estabelecimentos fora do festival que são de importância para o público geral como atrações, restaurantes, hospitais etc. Devido a isso, é comum que o público de um evento desse tamanho se sinta perdido.
 </p>
 
 ### Problema
 
-Dificuldade em gerenciar e organizar...
+Dificuldade do público do Lollapalooza em conseguir informações importantes durante o evento como dia e horários das atrações, local do evento, pontos turísticos ao redor, restaurantes e hospitais.
 
 ### Impactados
 
-Usuários....
+Freqeuntadores do Lollapalooza.
 
 ### Consequência
 
-A criação de novos....
+Uma má experiencia do público durante o evento, pois a falta de informações leva o público a acreditar que o evento é desorganizado e/ou precário.
 
 ### Solução
 
-Utilizar a aplicação que será desenvolvida visando resolver...
+Elaborar uma aplicação web(site) que contenha todas as informações necessárias para os frequentadores do evento, pensando em estádia para o público fora de São Paulo, alimentação de qualidade, hospitais e orientações dentro do evento como a localização de atrações, palcos, shows e horários. Ainda, por meio de um cadastro o usuário receberá sugestões para uma melhor experiência, como recomendações de restaurantes, estadias e pontos turísticos. 
 
 ## Objetivos
 
 <p align = "justify">
-O objetivo da equipe de desenvolvimento é fornecer...
+O objetivo da equipe de desenvolvimento é fornecer uma melhor experência para o público frequentador do evento.
 </p>
 
 ## Descrição do Usuário 
 
 <p align = "justify">
-Os usuários serão....
+Os usuários serão o público que irá freqeuntar o Lollapalooza 2025.
 </p>
 
 ## Recursos do produto
@@ -47,41 +47,36 @@ Os usuários serão....
 ### Conta
 
 <p align = "justify">
-O cliente poderá realizar seu cadastro....
+O cliente poderá realizar seu cadastro ao entrar na plataforma, insirindo seu email, nome completo e senha.
 </p>
 
-### Loja
-
-<p align = "justify">
-O cliente poderá cadastrar uma loja única....
-</p>
 
 ### Produto
 
 <p align = "justify">
-O cliente poderá cadastrar....
+O cliente poderá cadastrar os dias em que frequentará o festival e horários, recebendo sugestões de trajetos,atrações e notificações sobre o trânsito ao redor.
 </p>
 
-### Pesquisa sobre Lojas
+### Pesquisa
 
 <p align = "justify">
-O cliente poderá pesquisar...
+O cliente poderá pesquisar sobre a localização de áreas de interesse dentro e fora do evento.
 </p>
 
 ## Restrições
 
 <p align = "justify">
-A aplicação não será responsável...
+A aplicação não será responsável por nenhuma espécie de compra, seja de ingressos para as atrações ou de alimentos. Apenas conterá as informações e sugestões para uma melhor experiência.
 </p>
 
 ## Referências Bibliográficas
 
 > Documento de visão. Disponível em https://www... Acesso em dd/MM/yyYY
 
-> Documento de visão. Disponível em  Acesso em dd/MM/yyYY
+> Documento de visão. Disponível em  Acesso em 18/09/2024
 
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX e ZZZ ZZZZ | 
+| 18/09/2024 | 1.0 | Criação do documento | Pedro Henrique Silvestre | 
 
