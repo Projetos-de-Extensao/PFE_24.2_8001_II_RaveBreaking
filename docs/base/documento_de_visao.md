@@ -20,7 +20,7 @@ Dificuldade do público do Lollapalooza em conseguir informações importantes d
 
 ### Impactados
 
-Freqeuntadores do Lollapalooza.
+Frequentadores do Lollapalooza.
 
 ### Consequência
 
@@ -39,7 +39,7 @@ O objetivo da equipe de desenvolvimento é fornecer uma melhor experência para 
 ## Descrição do Usuário 
 
 <p align = "justify">
-Os usuários serão o público que irá freqeuntar o Lollapalooza 2025.
+Os usuários serão o público que irá frequentar o Lollapalooza 2025.
 </p>
 
 ## Recursos do produto
@@ -47,14 +47,14 @@ Os usuários serão o público que irá freqeuntar o Lollapalooza 2025.
 ### Conta
 
 <p align = "justify">
-O cliente poderá realizar seu cadastro ao entrar na plataforma, insirindo seu email, nome completo e senha.
+O cliente poderá realizar seu cadastro ao entrar na plataforma, inserindo seu email, nome completo e senha.
 </p>
 
 
 ### Sugestões inteligentes
 
 <p align = "justify">
-O cliente poderá cadastrar os dias em que frequentará o festival e horários, recebendo sugestões de trajetos,atrações e notificações sobre o trânsito ao redor.
+O cliente poderá cadastrar os dias em que frequentará o festival e horários, recebendo sugestões de trajetos, atrações e notificações sobre o trânsito ao redor.
 </p>
 
 ### Pesquisa
