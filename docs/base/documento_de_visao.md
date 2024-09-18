@@ -2,7 +2,7 @@
 id: documento_de_visao
 title: Documento de Visão
 ---
-## Introdução
+### Introdução
 
 <p align = "justify">
 O propósito deste documento é fornecer uma visão geral sobre o projeto que será realizado na disciplina Projeto Front-End 2024/2, na Universidade da Barra da Tijuca. Sendo assim, Nesse documento serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe.
@@ -51,7 +51,7 @@ O cliente poderá realizar seu cadastro ao entrar na plataforma, insirindo seu e
 </p>
 
 
-### Produto
+### Sugestões inteligentes
 
 <p align = "justify">
 O cliente poderá cadastrar os dias em que frequentará o festival e horários, recebendo sugestões de trajetos,atrações e notificações sobre o trânsito ao redor.
@@ -71,7 +71,7 @@ A aplicação não será responsável por nenhuma espécie de compra, seja de in
 
 ## Referências Bibliográficas
 
-> Documento de visão. Disponível em https://www... Acesso em dd/MM/yyYY
+> Documento de visão. Disponível em https://www... Acesso em 18/09/2024
 
 > Documento de visão. Disponível em  Acesso em 18/09/2024
 
