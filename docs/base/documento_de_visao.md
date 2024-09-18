@@ -2,7 +2,7 @@
 id: documento_de_visao
 title: Documento de Visão
 ---
-### Introdução
+## Introdução
 
 <p align = "justify">
 O propósito deste documento é fornecer uma visão geral sobre o projeto que será realizado na disciplina Projeto Front-End 2024/2, na Universidade da Barra da Tijuca. Sendo assim, Nesse documento serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe.
