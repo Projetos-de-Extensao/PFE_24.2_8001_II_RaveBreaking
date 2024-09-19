@@ -129,3 +129,4 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | 17/09/2024 | 1.0 | Criação do documento | Sarah Ferrari |
+| 18/09/2024 | 1.0 | Requisitos Elicitados | Sarah Ferrari |
