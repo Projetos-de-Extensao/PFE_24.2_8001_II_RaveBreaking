@@ -54,7 +54,7 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
 |Gabriel:| Sim, já participei da organização de um festival de música com aproximadamente 50 mil participantes. |
 |Pedro:|Como funcionava a parte de inscrição e controle de participantes?|
 |Gabriel:|Era feito por uma plataforma, mas tivemos muitos problemas com a sobrecarga no servidor e com a atualização das informações em tempo real.|
--|Pedro:| Você já usou alguma aplicação para organizar eventos de música? Se sim, como foi a experiência?|
+|Pedro:| Você já usou alguma aplicação para organizar eventos de música? Se sim, como foi a experiência?|
 |Gabriel:| Sim, usamos uma aplicação comercial, mas foi limitada em algumas funcionalidades, principalmente no quesito de comunicação direta com os participantes|.
 |Pedro:| Teve algum problema específico com as plataformas usadas anteriormente?|
 |Gabriel:| Além da sobrecarga no servidor, o suporte era muito demorado. Tínhamos dificuldades em solucionar problemas com ingressos e login de usuários.|
