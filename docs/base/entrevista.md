@@ -76,16 +76,16 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
  
 | ID   | Descrição |
 |------|-----------|
-| REQ01 | A plataforma deve permitir a venda de ingressos online com suporte para diferentes métodos de pagamento. |
-| REQ02 | O sistema deve ser capaz de atualizar o line-up em tempo real e enviar notificações aos participantes. |
-| REQ03 | A plataforma deve incluir um mapa interativo com a localização de todas as áreas do evento. |
-| REQ04 | A aplicação deve garantir escalabilidade para suportar um grande número de acessos simultâneos. |
-| REQ05 | O sistema deve permitir o controle de acessos e áreas VIP para participantes. |
+| REQ01 | A plataforma deve suportar um grande número de acessos simultâneos, evitando sobrecarga no servidor durante o evento.|
+| REQ02 | A plataforma deve fornecer atualizações em tempo real para os participantes, incluindo alterações de horários de shows e notificações importantes.|
+| REQ03 | A plataforma deve permitir a comunicação direta com os participantes para informar mudanças ou avisos urgentes. |
+| REQ04 | A plataforma deve integrar um mapa interativo do local do evento, destacando áreas importantes como palcos, banheiros e pontos de alimentação. |
+| REQ05 | A plataforma deve permitir o cadastro de organizadores e prestadores de serviço diretamente na interface, facilitando a comunicação e a coordenação. |
 | REQ06 | Deve haver uma interface para cadastro de organizadores, prestadores de serviço e fornecedores. |
-| REQ07 | A plataforma deve oferecer integração com redes sociais para facilitar o compartilhamento de informações. |
-| REQ08 | O sistema deve enviar relatórios automáticos de performance do evento para os organizadores. |
-| REQ09 | A plataforma deve incluir uma funcionalidade de feedback pós-evento para os participantes. |
-| REQ10 | O sistema deve ser compatível com dispositivos móveis, garantindo acesso otimizado via smartphone. |
+| REQ07 | A plataforma deve exibir o line-up atualizado de forma fácil de acessar, com possibilidade de filtros por dia, palco ou artista, além da opção de compartilhar o line-up. |
+| REQ08 | A plataforma deve incluir um sistema de notificação por push para alertar os participantes sobre mudanças de última hora ou avisos de segurança. |
+| REQ09 | A plataforma deve fornecer informações detalhadas sobre a segurança no evento, como localização de postos médicos e áreas de emergência.|
+| REQ10 | A plataforma deve oferecer suporte técnico ágil para resolução rápida de problemas como login de usuários e outros serviços relacionados ao evento. |
 
 ## Conclusão
 <p align = "justify">
@@ -103,4 +103,4 @@ Através da aplicação da técnica da entrevista aberta, foi possível elicitar
 | -- | -- | -- | -- |
 | 18/09/2024 | 1.0    | Criação do documento e estrutura inicial    | Gabriel Couto|
 | 19/09/2024 | 2.0    | Adição da entrevista 1 e requisitos         | Gabriel Couto|
-| DD/MM/YYYY | 2.1 | Adição dos requisitos elicitados e conclusão | XXXX XXXXX | 
+| 20/09/2024 | 2.1 | Adição dos requisitos elicitados e conclusão | Sarah Ferrari| 
