@@ -19,7 +19,7 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
 - Como funcionava a parte de inscrição e controle de participantes no evento anterior?
 - Você já usou alguma aplicação para organizar eventos de música? Se sim, como foi a experiência?
 - Teve algum problema específico com as plataformas usadas anteriormente?
-- O que você acha de uma aplicação que permita a gestão de ingressos, acesso de participantes e controle de atrações em tempo real?
+- O que você acha de uma aplicação que permita o acesso de participantes e controle de atrações em tempo real?
 - Para você, qual seria o sistema ideal para gerenciar um grande evento de música como o Lollapalooza?
 - Você gostaria de poder se cadastrar como organizador ou prestador de serviços diretamente pela plataforma?
 - Quais informações você acha que são essenciais serem apresentadas para os participantes na plataforma?
@@ -58,16 +58,16 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
 |Gabriel:| Sim, usamos uma aplicação comercial, mas foi limitada em algumas funcionalidades, principalmente no quesito de comunicação direta com os participantes|.
 |Pedro:| Teve algum problema específico com as plataformas usadas anteriormente?|
 |Gabriel:| Além da sobrecarga no servidor, o suporte era muito demorado. Tínhamos dificuldades em solucionar problemas com ingressos e login de usuários.|
-|Pedro:| O que você acha de uma aplicação que permita a gestão de ingressos, acesso de participantes e controle de atrações em tempo real|
+|Pedro:| O que você acha de uma aplicação que permita o acesso de participantes e controle de atrações em tempo real|
 |Gabriel:| Seria o ideal. Além de facilitar a gestão do evento, daria muito mais segurança e agilidade no controle de acessos.|
 |Pedro:| Para você, qual seria o sistema ideal para gerenciar um grande evento de música como o Lollapalooza?|
-|Gabriel:| Um sistema que integre tudo: controle de ingressos, mapa interativo do evento, horários das atrações e, claro, a comunicação com o público em tempo real.|
+|Gabriel:| Um sistema que integre tudo: mapa interativo do evento, horários das atrações e, claro, a comunicação com o público em tempo real.|
 |Pedro :| Você gostaria de poder se cadastrar como organizador ou prestador de serviços diretamente pela plataforma?|
 |Gabriel :| Com certeza. Isso facilitaria a coordenação com fornecedores e prestadores de serviço, além de centralizar tudo em um só lugar.|
 |Pedro :| Quais informações você acha que são essenciais serem apresentadas para os participantes na plataforma?|
 |Gabriel:| O line-up atualizado, informações sobre as áreas do evento, notificações de alterações nos horários e segurança.|
-|Pedro:| Você considera importante que a plataforma inclua funcionalidades como venda de ingressos, visualização de line-up, notificações em tempo real, entre outras?|
-|Gabriel| Essas são funcionalidades essenciais. A venda de ingressos precisa ser segura e rápida, e o line-up deve ser fácil de acessar e compartilhar. As notificações em tempo real são importantes para qualquer mudança de última hora.|
+|Pedro:| Você considera importante que a plataforma inclua funcionalidades como visualização de line-up, notificações em tempo real, entre outras?|
+|Gabriel| Essas são funcionalidades essenciais. O line-up deve ser fácil de acessar e compartilhar. As notificações em tempo real são importantes para qualquer mudança de última hora.|
 
 
 <br>
@@ -101,6 +101,6 @@ Através da aplicação da técnica da entrevista aberta, foi possível elicitar
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 19/09/2024 | 1.0    | Criação do documento e estrutura inicial    | Pedro      |
-| 21/09/2024 | 2.0    | Adição da entrevista 1 e requisitos         | Pedro      |
+| 18/09/2024 | 1.0    | Criação do documento e estrutura inicial    | Gabriel Couto|
+| 19/09/2024 | 2.0    | Adição da entrevista 1 e requisitos         | Gabriel Couto|
 | DD/MM/YYYY | 2.1 | Adição dos requisitos elicitados e conclusão | XXXX XXXXX | 
