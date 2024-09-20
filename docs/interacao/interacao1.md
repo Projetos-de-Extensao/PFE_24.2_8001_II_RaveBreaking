@@ -13,15 +13,15 @@ title: Interação 1
 
 |Tarefa|Responsabilidade|
 |---|----|
-| Decidir o nome o projeto.|Todos|
-| Criar issues no GitHub / ZenHub| Todos|
+| Decidir o nome o projeto.|Gabriel Couto|
+| Criar issues no GitHub / ZenHub| Viktor Mayer|
 | Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |Pedro Silvestre|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Pedro Silvestre|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |Rodrigo Ferrett|
-| [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) |Sarah Ferrari|
-|[Entrevistas](https://github.com/xxx/xxx.md) |Gabriel Couto|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| [Documento de visão](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/documento_de_visao.md) |Pedro Silvestre|
+| Elaborar [5w2H](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/5w2h.md) |Pedro Silvestre|
+| [Mapas Mentais](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/mapa_mental.md) |Rodrigo Ferrett|
+| [Brainstorming](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/Brainstorm.md) |Sarah Ferrari|
+|[Entrevistas](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/entrevista.md) |Gabriel Couto|
+|[Prototipação.](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/prototipo_alta_fidelidade.md) |XXX e XXXXX|
 
 ## Sprint Retrospective/Review Meeting
 
