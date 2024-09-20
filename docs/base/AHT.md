@@ -7,7 +7,7 @@
 <p> Prototipo em formato hierarquica(HTA) do nosso site, contendo informaçoes de Designe, usuario, sistema e informaçoes dos produtos<p>
 
 ## VERSAO 1.0
-## AHT
+
 
 [![AHT](../assets/AHT/AHT-Hierarquia.png)](../assets/AHT/AHT-Hierarquia.png)
  
