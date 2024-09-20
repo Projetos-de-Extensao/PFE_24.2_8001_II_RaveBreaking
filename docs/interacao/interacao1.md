@@ -25,13 +25,10 @@ title: Interação 1
 
 ## Sprint Retrospective/Review Meeting
 
-#### Presentes na reunião: XXXX
+#### Presentes na reunião: Todos
 
 ### Dividas da Interação
-- 
-- 
-- 
-- 
+- Dividir / Separar melhor as tarefas entre os membros da equipe.
 
 ### Riscos Encontrados
 
@@ -40,30 +37,23 @@ title: Interação 1
 
 ### Pontos Positivos
 
--
--
-- 
--
-![pontos positivos](../assets/Sprints/S1-positivos.png)
+- Comunicação efetiva
+- Equipe disposta e pronta para o projeto
+- Entregas constantes
 
 ### Pontos Negativos
 
--
--
-- 
--
-![pontos negativos](../assets/Sprints/S1-negativos.png)
+- Houveram alguns desacordos ao escolher o tema do projeto, o que atrasou um pouco a equipe
+- Tarefas não foram bem divididas
 
 ### O que podemos melhorar?
 - Ter mais foco na reuniões para evitar o desperdício de tempo.
-- A equipe deve ter mais autonomia em relação à falta de membros.
-- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: https://timebox.cedrotech.com/
+- Tomar decisões baseadas em fatos comparando vantagens e desvantagens, para evitar divergência de opiniões.
 
 
 ### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
+- Reunião: [discord](https://discord.com/)
 
 
 
