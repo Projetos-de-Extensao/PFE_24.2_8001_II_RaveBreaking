@@ -16,7 +16,7 @@ title: Interação 1
 | Decidir o nome o projeto.|Gabriel Couto|
 | Criar issues no GitHub / ZenHub| Todos|
 | Estudar e escolher as metodologias.| Todos|
-| Analisar e manter o repositório organizado e atualizado | Sarah Ferrari|
+| Manter o repositório organizado e atualizado | Sarah Ferrari|
 | [Documento de visão](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/documento_de_visao.md) |Pedro Silvestre|
 | Elaborar [5w2H](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/5w2h.md) |Pedro Silvestre|
 | [Mapas Mentais](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/mapa_mental.md) |Rodrigo Ferrett|
