@@ -65,7 +65,7 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 ### Tela Mais > Mapa Interativo
-[![Prototipo 12](../assets/prototipo/prototipo_12.png)](../assets/prototipo/prototipo_12.png)
+[![Prototipo 12](../assets/prototipo/mapa_interativo.png)](../assets/prototipo/mapa_interativo.png)
 
 
 ### Tela Mais > Turismo 
