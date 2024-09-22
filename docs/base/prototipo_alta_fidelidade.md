@@ -73,7 +73,7 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 <p align = "justify">
-Na primeira versão do protótipo utilizamos a ferramenta <a href="[https://material.io/resources/color/#!/?view.left=0&view.right=0](https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0)">Figmal</a>  para auxiliar na criação do protótipo do aplicativo, definimos as cores base do aplicativo baseado nas cores do Evento original. 
+Na primeira versão do protótipo utilizamos a ferramenta <a href="(https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0)">Figma</a>  para auxiliar na criação do protótipo do aplicativo, definimos as cores base do aplicativo baseado nas cores do Evento original. 
 Decidimos manter a mesma identidade visual para a nossa plataforma. 
 </p>
 
