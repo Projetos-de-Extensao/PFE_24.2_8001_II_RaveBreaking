@@ -11,7 +11,5 @@
 ### AHT
 
 
-
-
 [![AHT](../assets/AHT/AHT-Hierarquia.png)]
  
