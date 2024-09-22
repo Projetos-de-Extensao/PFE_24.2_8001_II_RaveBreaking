@@ -69,11 +69,6 @@ O cliente poderá pesquisar sobre a localização de áreas de interesse dentro 
 A aplicação não será responsável por nenhuma espécie de compra, seja de ingressos para as atrações ou de alimentos. Apenas conterá as informações e sugestões para uma melhor experiência.
 </p>
 
-## Referências Bibliográficas
-
-> Documento de visão. Disponível em https://www... Acesso em 18/09/2024
-
-> Documento de visão. Disponível em  Acesso em 18/09/2024
 
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
