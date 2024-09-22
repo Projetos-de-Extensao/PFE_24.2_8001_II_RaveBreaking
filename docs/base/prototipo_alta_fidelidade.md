@@ -23,19 +23,19 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 ### Tela Login
 [![Prototipo 1](../assets/prototipo/login.png)](../assets/prototipo/login.png)
 
-### Tela Cadastro 1
+### Tela Cadastro
 
 [![Prototipo 2](../assets/prototipo/prototipo_2.png)](../assets/prototipo/prototipo_2.png)
-
-### Tela Cadastro 2
-
-[![Prototipo 3](../assets/prototipo/prototipo_3.png)](../assets/prototipo/prototipo_3.png)
 
 ### Tela Esqueceu Senha
 
 [![Prototipo 4](../assets/prototipo/prototipo_4.png)](../assets/prototipo/prototipo_4.png)
 
-### Tela do Feed
+### Tela Home sem Login
+
+[![Prototipo 3](../assets/prototipo/prototipo_3.png)](../assets/prototipo/prototipo_3.png)
+
+### Tela Home
 [![Prototipo 5](../assets/prototipo/prototipo_5.png)](../assets/prototipo/prototipo_5.png)
 
 ### Tela Feed com configurações
@@ -54,13 +54,13 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 ### Tela Cadastrar torneio 3
 [![Prototipo 10](../assets/prototipo/prototipo_10.png)](../assets/prototipo/prototipo_10.png)
 
-### Tela Cadastrar torneio 4
+### Tela Mais > Mapa 
 [![Prototipo 11](../assets/prototipo/prototipo_11.png)](../assets/prototipo/prototipo_11.png)
 
-### Tela com meus torneios
+### Tela Mais > Mapa Interativo
 [![Prototipo 12](../assets/prototipo/prototipo_12.png)](../assets/prototipo/prototipo_12.png)
 
-### Tela de inscrição em torneio
+### Tela Mais > Turismo 
 [![Prototipo 13](../assets/prototipo/prototipo_13.png)](../assets/prototipo/prototipo_13.png)
 
 <p align = "justify">
