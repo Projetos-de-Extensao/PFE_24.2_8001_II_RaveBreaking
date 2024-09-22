@@ -13,7 +13,7 @@ A construção do protótipo de alta fidelidade auxilia a equipe de desenvolvime
 ## Metodologia
 
 <p align = "justify">
-Iniciamos o projeto através dos levantamentos iniciais da equipe, após discussões a ferramenta Figma foi selecionada para produzir o protótipo de alta fidelidade com auxílio do Material Design Color Tool.
+Iniciamos o projeto através dos levantamentos iniciais da equipe, após discussões a ferramenta Figma foi selecionada para produzir o protótipo de alta fidelidade.
 </p>
 
 ## Protótipo de alta fidelidade
@@ -69,13 +69,16 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 ### Tela Mais > Turismo 
-[![Prototipo 13](../assets/prototipo/prototipo_13.png)](../assets/prototipo/prototipo_13.png)
+[![Prototipo 13](../assets/prototipo/turismo.png)](../assets/prototipo/turismo.png)
 
 
 <p align = "justify">
-Na primeira versão do protótipo utilizamos a ferramenta <a href="(https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0)">Figma</a>  para auxiliar na criação do protótipo do aplicativo, definimos as cores base do aplicativo baseado nas cores do Evento original. 
+Na primeira versão do protótipo utilizamos algumas bibliotecas do figma para auxiliar na criação do protótipo do aplicativo. 
+Definimos as cores base do aplicativo baseado nas cores do Evento original. 
 Decidimos manter a mesma identidade visual para a nossa plataforma. 
 </p>
+
+link para o primeiro <a href="https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0">Protótipo no Figma</a>
 
 ### Versão 2.0
 
@@ -117,17 +120,16 @@ Decidimos manter a mesma identidade visual para a nossa plataforma.
 ### Tela de adicionar resultado das partidas
 [![Prototipo 12](../assets/prototipo/adicionar_resultado_da_partida.png)](../assets/prototipo/adicionar_resultado_da_partida.png)
 
-link para o <a href="https://www.figma.com/file/karoCnQtvMXWHEwdMuhQs0/Prototipo?node-id=0%3A1">Protótipo</a>
+link para o <a href="https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0">Protótipo no Figma</a>
 
 ## Conclusão
 
 <p align = "justify">
 A partir da elaboração do protótipo foi possível ter uma noção inicial da interface do usuário, definindo fluxo, paleta de cores, botões, app bars e diversas outras funcionalidades. 
+Também ficou mais fácil de visualizar os requisitos da plataforma. 
 </p>
 
 ## Referências
-
-> Material Design Color Tool. Disponível em:  https://material.io/resources/color/#!/?view.left=0&view.right=0
 
 > PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. EUA: Project Management Institute, 2013.
 
