@@ -61,7 +61,7 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 ### Tela Mais > Mapa 
-[![Prototipo 11](../assets/prototipo/prototipo_11.png)](../assets/prototipo/prototipo_11.png)
+[![Prototipo 11](../assets/prototipo/mapa.png)](../assets/prototipo/mapa.png)
 
 
 ### Tela Mais > Mapa Interativo
