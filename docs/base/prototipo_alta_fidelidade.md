@@ -23,45 +23,54 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 ### Tela Login
 [![Prototipo 1](../assets/prototipo/login.png)](../assets/prototipo/login.png)
 
-### Tela Cadastro
 
-[![Prototipo 2](../assets/prototipo/prototipo_2.png)](../assets/prototipo/prototipo_2.png)
+### Tela Cadastro
+[![Prototipo 2](../assets/prototipo/cadastro.png)](../assets/prototipo/cadastro.png)
+
 
 ### Tela Esqueceu Senha
-
 [![Prototipo 4](../assets/prototipo/prototipo_4.png)](../assets/prototipo/prototipo_4.png)
 
-### Tela Home sem Login
 
+### Tela Home sem Login
 [![Prototipo 3](../assets/prototipo/prototipo_3.png)](../assets/prototipo/prototipo_3.png)
+
 
 ### Tela Home
 [![Prototipo 5](../assets/prototipo/prototipo_5.png)](../assets/prototipo/prototipo_5.png)
 
+
 ### Tela Feed com configurações
 [![Prototipo 6](../assets/prototipo/prototipo_6.png)](../assets/prototipo/prototipo_6.png)
+
 
 ### Tela Perfil
 [![Prototipo 7](../assets/prototipo/prototipo_7.png)](../assets/prototipo/prototipo_7.png)
 
+
 ### Tela Cadastrar torneio 1
 [![Prototipo 8](../assets/prototipo/prototipo_8.png)](../assets/prototipo/prototipo_8.png)
 
-### Tela Cadastrar torneio 2
 
+### Tela Cadastrar torneio 2
 [![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
+
 
 ### Tela Cadastrar torneio 3
 [![Prototipo 10](../assets/prototipo/prototipo_10.png)](../assets/prototipo/prototipo_10.png)
 
+
 ### Tela Mais > Mapa 
 [![Prototipo 11](../assets/prototipo/prototipo_11.png)](../assets/prototipo/prototipo_11.png)
+
 
 ### Tela Mais > Mapa Interativo
 [![Prototipo 12](../assets/prototipo/prototipo_12.png)](../assets/prototipo/prototipo_12.png)
 
+
 ### Tela Mais > Turismo 
 [![Prototipo 13](../assets/prototipo/prototipo_13.png)](../assets/prototipo/prototipo_13.png)
+
 
 <p align = "justify">
 Na primeira versão do protótipo utilizamos a ferramenta <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0">Material Design Color Tool</a>  para auxiliar na criação da paleta de cores do aplicativo, definimos as cores base do aplicativo mas as cores definidas para as telas 12 e 13 ainda não foram decididas.
