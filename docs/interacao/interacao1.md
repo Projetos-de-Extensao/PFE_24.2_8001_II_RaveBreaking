@@ -23,7 +23,7 @@ title: Interação 1
 | [Brainstorming](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/Brainstorm.md) |Sarah Ferrari|
 |[Entrevistas](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/entrevista.md) |Gabriel Couto|
 | Criar a [análise hierárquica ](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/assets/AHT/AHT-Hierarquia.png) do projeto |Viktor Mayer|
-|[Prototipação.](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/prototipo_alta_fidelidade.md) |XXX e XXXXX|
+|[Prototipação.](https://github.com/Projetos-de-Extensao/PFE_24.2_8001_II_RaveBreaking/blob/main/docs/base/prototipo_alta_fidelidade.md) |Sarah Ferrari e Pedro Silvestre|
 
 ## Sprint Retrospective/Review Meeting 
 
