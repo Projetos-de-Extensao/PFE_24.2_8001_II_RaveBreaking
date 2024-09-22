@@ -83,25 +83,20 @@ Essa combinação proporciona a flexibilidade necessária para ajustes ágeis e 
  
 ## Referências
  
-> [1] SCRUM, Disponivel em: https://www....
+> [1] SCRUM, Disponivel em:
+https://www.atlassian.com/agile/scrum#:~:text=Scrum%20is%20an%20agile%20project,values%2C%20principles%2C%20and%20practices.
  
-> [2] Sistema Kanban, Disponivel em: https://www...
+> [2] Sistema Kanban, Disponivel em:
+https://www.atlassian.com/agile/kanban#:~:text=In%20Japanese%2C%20kanban%20literally%20translates,in%20a%20highly%20visual%20manner.
  
-> [3] Extreme Programming, Disponivel em: http://www...
+> [3] Extreme Programming, Disponivel em:
+https://www.alura.com.br/curso-online-xp-extreme-programming?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=21215649534&hsa_grp=163355147476&hsa_ad=701727864642&hsa_src=g&hsa_tgt=dsa-2315509357092&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6_UBYc0gVV6BkbAQTqyD41EgKhOtNwaU83r2vtc1JMf0D9leyc7S4UaAt8mEALw_wcB
 
-> [5] Rational Unified Process, Disponivel em: https://www...
+> [5] Rational Unified Process, Disponivel em: https://www.treinaweb.com.br/blog/o-que-e-rup-rational-unified-process
  
-> [6] EXTREME PROGRAMMING, Disponivel em: https://www...
  
  
 ## Autor(es)
  
-| Data | Versão | Descrição | Autor(es) |
-| -- | -- | -- | -- |
-| 05/mm/xx | 1.0 | Criação  | xxx xxx e xxxxx xxxxx |
-| 06/mm/xx | 1.1 | Adicionado  | xxx xxxx e xxxxx xxxx |
-| 06/mm/XX | 1.2 | Adicionado  | xxx xxxx e xxxxxx xxxxxx |
-| 06/mm/xx | 1.3 | Adicionado xxxx | xxx xxxx e xxxx xxxxx |
-| 06/mm/xx | 1.4 | Adicionadoxxxx | xxxx xxxxx e xxxx xxxxx |
-| mm/mm/xx | 1.5 | Revisão do documento | xxxx xxxxx |
-| mm/mm/xx | 1.6 | Ajuste no topico Scrum | xxxx xxxx e xxxx xxxx |
+| 20/09/2024 | 1.0 | Criação  | Sarah Ferrari |
+| 22/09/2024| 1.1 | Finalizando o documneto  | Sarah Ferrari |
