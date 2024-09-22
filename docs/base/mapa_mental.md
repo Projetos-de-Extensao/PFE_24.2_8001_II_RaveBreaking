@@ -35,14 +35,9 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 </p>
  
 ## Referências
-> Mapa MentalXXX,  Disponível em: https://www.....
  
-> Ferramentas para Mapas Mentais. Disponível em: https://www....
- 
-> Plataforma para usuários colaborar no desenho... Disponível em: https://...
+> Ferramentas para Mapas Mentais. Disponível em: https://www.mindmeister.com/
  
 ## Versionamento
-| Data | Versão | Descrição | Autor(es) |
-| -- | -- | -- | -- |
 | 18/09/2024 | 1.0 | Criação do documento | Sarah Ferrari |
-| 18/09/2024 | 2.0 | Adicionado Mapa mental 2 |Rodrigo Ferrett |
+| 18/09/2024 | 2.0 | Adicionado Mapa mental 2 | Rodrigo Ferrett |
