@@ -73,7 +73,8 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 <p align = "justify">
-Na primeira versão do protótipo utilizamos a ferramenta <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0">Material Design Color Tool</a>  para auxiliar na criação da paleta de cores do aplicativo, definimos as cores base do aplicativo mas as cores definidas para as telas 12 e 13 ainda não foram decididas.
+Na primeira versão do protótipo utilizamos a ferramenta <a href="[https://material.io/resources/color/#!/?view.left=0&view.right=0](https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0)">Figmal</a>  para auxiliar na criação do protótipo do aplicativo, definimos as cores base do aplicativo baseado nas cores do Evento original. 
+Decidimos manter a mesma identidade visual para a nossa plataforma. 
 </p>
 
 ### Versão 2.0
@@ -121,7 +122,7 @@ link para o <a href="https://www.figma.com/file/karoCnQtvMXWHEwdMuhQs0/Prototipo
 ## Conclusão
 
 <p align = "justify">
-A partir da elaboração do protótipo foi possível ter uma noção inicial da interface do usuário, definindo fluxo, paleta de cores, botões, app bars e diversas outras funcionalidades
+A partir da elaboração do protótipo foi possível ter uma noção inicial da interface do usuário, definindo fluxo, paleta de cores, botões, app bars e diversas outras funcionalidades. 
 </p>
 
 ## Referências
@@ -136,7 +137,7 @@ A partir da elaboração do protótipo foi possível ter uma noção inicial da 
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 07/09/20 | 1.0 | Criação do documento | Lucas Alexandre e Matheus Estanislau  |
-| 07/09/20 | 1.1 | Adicionado as imagens do protótipo | Lucas Alexandre e Matheus Estanislau  |
+| 21/09/24 | 1.0 | Criação do documento | Sarah Ferrari |
+| 22/09/24 | 1.1 | Adicionado as imagens do protótipo | Sarah Ferrari  |
 | 07/09/20 | 1.2 | Adicionado conclusão e referências  | Lucas Alexandre e Matheus Estanislau  |
 | 26/10/20 | 2.0 | Adicionada a versão 2.0 do protótipo| João Pedro, Lucas Alexandre, Matheus Estanislau, Moacir Mascarenha e Renan Cristyan|
