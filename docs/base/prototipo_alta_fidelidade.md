@@ -137,7 +137,6 @@ Também ficou mais fácil de visualizar os requisitos da plataforma.
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 21/09/24 | 1.0 | Criação do documento | Sarah Ferrari |
-| 22/09/24 | 1.1 | Adicionado as imagens do protótipo | Sarah Ferrari  |
-| 07/09/20 | 1.2 | Adicionado conclusão e referências  | Lucas Alexandre e Matheus Estanislau  |
-| 26/10/20 | 2.0 | Adicionada a versão 2.0 do protótipo| João Pedro, Lucas Alexandre, Matheus Estanislau, Moacir Mascarenha e Renan Cristyan|
+| 22/09/24 | 1.1 | Adicionado as imagens do protótipo | Pedro Silvestre e Sarah Ferrari  |
+| 22/09/24 | 1.2 | Adicionado conclusão e referências  | Sarah Ferrari |
+| 26/10/20 | 2.0 | Adicionada a versão 2.0 do protótipo| xxxx |
