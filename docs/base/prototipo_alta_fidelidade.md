@@ -38,24 +38,16 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 [![Prototipo 5](../assets/prototipo/prototipo_5.png)](../assets/prototipo/prototipo_5.png)
 
 
-### Tela Feed com configurações
+### Tela Line-Up
 [![Prototipo 6](../assets/prototipo/prototipo_6.png)](../assets/prototipo/prototipo_6.png)
 
 
-### Tela Perfil
+### Tela Gastronomia
 [![Prototipo 7](../assets/prototipo/prototipo_7.png)](../assets/prototipo/prototipo_7.png)
 
 
-### Tela Cadastrar torneio 1
+### Tela Gastronomia > Cardápio
 [![Prototipo 8](../assets/prototipo/prototipo_8.png)](../assets/prototipo/prototipo_8.png)
-
-
-### Tela Cadastrar torneio 2
-[![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
-
-
-### Tela Cadastrar torneio 3
-[![Prototipo 10](../assets/prototipo/prototipo_10.png)](../assets/prototipo/prototipo_10.png)
 
 
 ### Tela Mais > Mapa 
@@ -68,6 +60,10 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 ### Tela Mais > Turismo 
 [![Prototipo 13](../assets/prototipo/turismo.png)](../assets/prototipo/turismo.png)
+
+
+### Tela Notificações
+[![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
 
 
 <p align = "justify">
@@ -137,6 +133,7 @@ Também ficou mais fácil de visualizar os requisitos da plataforma.
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 22/09/24 | 1.1 | Adicionado as imagens do protótipo | Pedro Silvestre e Sarah Ferrari  |
+| 20/09/24 | 2.0 | Criar a versão 1.0 do protótipo| Pedro Silvestre e Sarah Ferrari |
+| 22/09/24 | 1.1 | Adicionado as imagens do protótipo | Pedro Silvestre |
 | 22/09/24 | 1.2 | Adicionado conclusão e referências  | Sarah Ferrari |
 | 26/10/20 | 2.0 | Adicionada a versão 2.0 do protótipo| xxxx |
