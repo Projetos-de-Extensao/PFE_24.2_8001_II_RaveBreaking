@@ -11,5 +11,5 @@
 ### AHT
 
 
-[![AHT](../assets/AHT/AHT.png)](../assets/AHT/AHT.png)
+![AHT text](../assets/AHT/AHT.png)
  
