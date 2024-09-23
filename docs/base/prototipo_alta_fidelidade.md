@@ -65,7 +65,7 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 ### Tela Notificações
 [![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
 
-
+## Conclusão 1.0
 <p align = "justify">
 Na primeira versão do protótipo utilizamos algumas bibliotecas do figma para auxiliar na criação do protótipo do aplicativo. 
 Definimos as cores base do aplicativo baseado nas cores do Evento original. 
@@ -115,7 +115,7 @@ link para o primeiro <a href="https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxA
 [![Prototipo 12](../assets/prototipo/adicionar_resultado_da_partida.png)](../assets/prototipo/adicionar_resultado_da_partida.png)
 
 link para o <a href="https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0">Protótipo no Figma</a>
-
+ 
 ## Conclusão
 
 <p align = "justify">
