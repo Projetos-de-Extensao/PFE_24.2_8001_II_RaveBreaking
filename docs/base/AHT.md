@@ -11,5 +11,5 @@
 ### AHT
 
 
-[![AHT](../assets/AHT/AHT-Hierarquia.png)]
+[![AHT](../assets/AHT/AHT.png)]
  

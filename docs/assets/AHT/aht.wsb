@@ -1,0 +1,21 @@
+@startwbs
+* Site do Lollapalooza
+** Sistema de login 
+*** Aramazenar os dados do usuário
+*** Segurança de dados
+** Design do site 
+*** Acessibilidade
+**** Descrições em imagens e vídeos
+**** Utilização das cores 
+*** Decidir a estética do site 
+*** Cores
+*** Tema
+** Informações do site 
+*** Localidades
+*** Line-up
+*** Horários e datas
+*** Gastronomia 
+*** Turismo 
+*** FAQS
+*** Redes sociais 
+@endwbs
