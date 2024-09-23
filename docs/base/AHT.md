@@ -6,10 +6,5 @@
 ## Metodologia
 <p> Prototipo em formato hierarquica(HTA) do nosso site, contendo informaçoes de Designe, usuario, sistema e informaçoes dos produtos<p>
 
-## Versão 1.0
-
-### AHT
-
-
 ![AHT text](../assets/AHT/AHT.png)
  
