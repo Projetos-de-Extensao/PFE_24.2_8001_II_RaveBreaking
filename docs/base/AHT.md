@@ -11,5 +11,5 @@
 ### AHT
 
 
-[![AHT](../assets/AHT/AHT.png)](../assets/Mapas_mentais/mindmap1_pfe.png)
+[![AHT](../assets/AHT/AHT.png)]
  
