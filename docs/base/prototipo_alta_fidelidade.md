@@ -27,35 +27,35 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 ### Tela Esqueceu Senha
-[![Prototipo 4](../assets/prototipo/prototipo_4.png)](../assets/prototipo/prototipo_4.png)
+[![Prototipo 4](../assets/prototipo/senha.png)](../assets/prototipo/senha.png)
 
 
 ### Tela Home sem Login
-[![Prototipo 3](../assets/prototipo/prototipo_3.png)](../assets/prototipo/prototipo_3.png)
+[![Prototipo 3](../assets/prototipo/home1.png)](../assets/prototipo/home1.png)
 
 
 ### Tela Home
-[![Prototipo 5](../assets/prototipo/prototipo_5.png)](../assets/prototipo/prototipo_5.png)
+[![Prototipo 5](../assets/prototipo/home2.png)](../assets/prototipo/home2.png)
 
 
 ### Tela Line-Up
-[![Prototipo 6](../assets/prototipo/prototipo_6.png)](../assets/prototipo/prototipo_6.png)
+[![Prototipo 6](../assets/prototipo/lineup.png)](../assets/prototipo/lineup.png)
 
 
 ### Tela Gastronomia
-[![Prototipo 7](../assets/prototipo/prototipo_7.png)](../assets/prototipo/prototipo_7.png)
+[![Prototipo 7](../assets/prototipo/gastro.png)](../assets/prototipo/gastro.png)
 
 
 ### Tela Gastronomia > Cardápio
-[![Prototipo 8](../assets/prototipo/prototipo_8.png)](../assets/prototipo/prototipo_8.png)
+[![Prototipo 8](../assets/prototipo/gastro2.png)](../assets/prototipo/gastro2.png)
 
 
 ### Tela Mais > Mapa 
-[![Prototipo 11](../assets/prototipo/mapa.png)](../assets/prototipo/mapa.png)
+[![Prototipo 11](../assets/prototipo/mapa1.png)](../assets/prototipo/mapa1.png)
 
 
 ### Tela Mais > Mapa Interativo
-[![Prototipo 12](../assets/prototipo/mapa_interativo.png)](../assets/prototipo/mapa_interativo.png)
+[![Prototipo 12](../assets/prototipo/mapa2.png)](../assets/prototipo/mapa2.png)
 
 
 ### Tela Mais > Turismo 
@@ -63,7 +63,7 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 
 ### Tela Notificações
-[![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
+[![Prototipo 9](../assets/prototipo/notificacao.png)](../assets/prototipo/notificacao.png)
 
 ## Conclusão 1.0
 <p align = "justify">
