@@ -16,7 +16,7 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 
 ## Protótipo de alta fidelidade
 
-### Versão 1.0
+## Versão 1.0
 
 ### Tela Login
 [![Prototipo 1](../assets/prototipo/login.png)](../assets/prototipo/login.png)
@@ -74,7 +74,7 @@ Decidimos manter a mesma identidade visual para a nossa plataforma.
 
 link para o primeiro <a href="https://www.figma.com/design/IcZ9VCCN5QX06BpDkJIxAy/Projeto-Front-End?node-id=0-1&node-type=canvas&t=CFpUV77uf46eb7gI-0">Protótipo no Figma</a>
 
-### Versão 2.0
+## Versão 2.0
 
 ### Tela Login
 [![Prototipo 1](../assets/prototipo/tela_de_login.png)](../assets/prototipo/tela_de_login.png)
