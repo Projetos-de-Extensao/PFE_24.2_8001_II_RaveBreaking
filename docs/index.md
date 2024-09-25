@@ -17,6 +17,6 @@ Linguagens: HTML, CSS e Javascript
 
 ### Tecnologias: 
 
-- Visual Studi Code
+- Visual Studio Code
 - Git e Github
 

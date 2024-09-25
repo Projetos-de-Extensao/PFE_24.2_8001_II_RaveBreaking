@@ -1,9 +1,17 @@
 site_name: Documentação do Site 
 
-theme: 
-  name: 'mkdocs'
-  palette: 
-    scheme: 'dark'
-    primary: 'indigo' 
-    accent: 'blue'
+theme:
+  font: 
+    text: Arial
+  palette:
+    scheme: slate
+    primary: deep orange
+    accent: orange
+  
+  name: material
+  features:
+    - navigation.tabs
+    - search.highlight
+
+
 
