@@ -57,5 +57,8 @@ title: Interação 1
 
 - Reunião: [discord](https://discord.com/)
 
+| Data | Versão | Descrição | Autor(es) |
+| -- | -- | -- | -- |
+| 23/09/2024 | 1.0 | Criação do documento | Sarah Ferrari |
 
 
