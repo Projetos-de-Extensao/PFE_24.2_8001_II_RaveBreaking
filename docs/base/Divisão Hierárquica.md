@@ -6,6 +6,11 @@
 
 ![AHT text](../assets/AHT/AHT.png)
 
+
+
+
+
+
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | 21/09/2024 | 1.0 | Criação do documento | Viktor Mayer |
