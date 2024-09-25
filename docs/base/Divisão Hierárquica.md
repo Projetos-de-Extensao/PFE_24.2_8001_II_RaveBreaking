@@ -4,7 +4,7 @@
 ## Metodologia
 <p> Prototipo em formato hierarquica do nosso site para uma melhor organização, contendo informaçoes de Design, usuário, sistema e informações dos produtos<p>
 
-![AHT text](../assets/AHT/AHT.png)
+![AHT](AHT/AHT.png)
 
 
 

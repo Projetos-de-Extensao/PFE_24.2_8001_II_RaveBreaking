@@ -6,14 +6,15 @@ Projeto Front-end
 
 Nome do grupo: Rave Breaking
 
-Nesse projeto nós iremos fazer um site baseado no festival de música, e nele irão ter funcionalidades variadas, como line-up, opções de comidas no evento, mapa, 
-entre outros.
+<p>Nesse projeto nós iremos fazer um site baseado no festival de música, e nele irão ter funcionalidades variadas, como line-up, opções de comidas no evento, mapa, 
+entre outros.</p>
 
 ## Ferramentas utilizadas
 
 Linguagens: HTML, CSS e Javascript
 
-Tecnologias: 
+### Tecnologias: 
+
 - Visual Studi Code
 - Git e Github
 
