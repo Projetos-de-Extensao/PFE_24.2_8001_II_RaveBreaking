@@ -97,6 +97,9 @@ https://www.alura.com.br/curso-online-xp-extreme-programming?utm_term=&utm_campa
  
  
 ## Autor(es)
- 
+| Data | Versão | Descrição | Autor(es) |
+| -- | -- | -- | -- |
 | 20/09/2024 | 1.0 | Criação  | Sarah Ferrari |
 | 22/09/2024| 1.1 | Finalizando o documneto  | Sarah Ferrari |
+
+
