@@ -1,5 +1,8 @@
 site_name: Documentação do Site 
 theme: 
   name: mkdocs 
-  pallete:
-    accent: indigo 
+  palette: 
+    scheme: default
+    primary: green 
+    accent: purple
+    
