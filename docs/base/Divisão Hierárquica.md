@@ -13,7 +13,7 @@ Para representar a divisão hierárquica do projeto utilizamos o PlantUML, que p
 
 <p align = "justify"> 
 Prototipo em formato hierarquica do nosso site para uma melhor organização, contendo informaçoes de Design, usuário, sistema e informações dos produtos
-<p>
+</p>
 
 ### Documento de Hierarquia
 [![AHT](../assets/AHT/AHT.png)](../assets/AHT/AHT.png)
