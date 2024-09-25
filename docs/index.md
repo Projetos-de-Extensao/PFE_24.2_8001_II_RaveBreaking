@@ -1,13 +1,13 @@
-# Welcome to MkDocs
+# Projeto Front-end
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Site do Lollapalooza
 
-## Commands
+## Sobre 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Nesse projeto nós iremos fazer um site baseado no festival de música, e nele irão ter funcionalidades variadas, como line-up, opções de comidas no evento, mapa, 
+entre outros.
+
+
 
 ## Project layout
 
