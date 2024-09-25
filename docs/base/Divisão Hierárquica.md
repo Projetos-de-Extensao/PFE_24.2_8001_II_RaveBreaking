@@ -5,4 +5,7 @@
 <p> Prototipo em formato hierarquica do nosso site para uma melhor organização, contendo informaçoes de Design, usuário, sistema e informações dos produtos<p>
 
 ![AHT text](../assets/AHT/AHT.png)
- 
+
+| Data | Versão | Descrição | Autor(es) |
+| -- | -- | -- | -- |
+| 21/09/2024 | 1.0 | Criação do documento | Viktor Mayer |
