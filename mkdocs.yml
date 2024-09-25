@@ -11,7 +11,10 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.path
     - search.highlight
+    - toc.integrate
+ 
 
 
 
