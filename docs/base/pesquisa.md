@@ -17,43 +17,48 @@ Uma pesquisa geral realizada pelo grupo para ampliar o conhecimento do tema e co
 
 ### Sites
 
-#### Site do lollapalooza:
-https://www.lollapaloozabr.com/
+#### Site do lollapalooza:<p align = "justify">
+https://www.lollapaloozabr.com/ <br>
 https://web.archive.org/web/20240000000000*/https://www.lollapaloozabr.com/
+</p>
 
-#### Sites relacionados:
+#### Sites relacionados:<p align = "justify">
 https://rockinrio.com/rio/pt-br/line-up/
 https://brasil.tomorrowland.com/en/
 https://www.primaverasound.com/pt/sao-paulo
 https://downloadfestival.co.uk/
+</p>
 
 ### Serviços próximos da área do evento
 
-#### Hoteis
+#### Hoteis <p align = "justify">
 Hotel Paddock
 Novo Hotel Pousada - Interlagos/SP
 Interlagos Circuit Inn
 Suítes para alugar (Av. Berta Waitman, 67 - Interlagos, São Paulo - SP, 04788-250)
+</p>
 
 
-#### Delegacias
+#### Delegacias <p align = "justify">
 48º Distrito Policial (Cidade Dutra) - Polícia Civil SP
 POLICIA MILITAR 1ª Cia Do 22ºBPM\M
 102° Distrito Policial de São Paulo
+</p>
 
-#### Hospitais
+#### Hospitais <p align = "justify">
 Hospital Geral de Grajaú
 Hospital Geral de Pedreira
 Hospital Dia Rede Hora Certa
+</p>
 
-#### Restaurantes
+#### Restaurantes <p align = "justify">
 Casa da Pizza
 Farol Cervejaria e Gourmet
 Prainha Bar e Grill
 Quintal do Leo
+</p>
 
-### Pontos Turisticos em São Paulo
-
+### Pontos Turisticos em São Paulo <p align = "justify">
 Avenida Paulista
 Parque Ibirapuera
 Pinacoteca de São Paulo
@@ -62,6 +67,7 @@ Museu de Arte de São Paulo Assis Chateaubriand
 Mercado Municipal de São Paulo
 Beco do Batman
 Teatro municipal São Paulo
+</p>
 
 ## Autor(es)
 
