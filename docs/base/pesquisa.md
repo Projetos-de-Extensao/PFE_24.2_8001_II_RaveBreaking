@@ -68,6 +68,7 @@ Hospital Dia Rede Hora Certa
 No evento:
 <br> https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024
 <br>
+<br>
 Fora do evento:
 <br>
 https://www.tripadvisor.com.br/RestaurantsNear-g303631-d12375582-Interlagos_Autodromo_Suites_Individuais_Em_Casa-Sao_Paulo_State_of_Sao_Paulo.html
