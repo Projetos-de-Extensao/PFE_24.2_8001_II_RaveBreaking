@@ -34,7 +34,9 @@ https://downloadfestival.co.uk/
 
 ### Serviços próximos da área do evento
 
-#### Hoteis 
+#### Hospedagens
+https://www.letsatlantica.com.br/hotel-perto-do-lollapalooza
+<br>
 Hotel Paddock
 <br>
 Novo Hotel Pousada - Interlagos/SP
@@ -51,6 +53,11 @@ POLICIA MILITAR 1ª Cia Do 22ºBPM\M
 102° Distrito Policial de São Paulo
 
 #### Hospitais
+Hospital Maternidade Interlagos - "Waldemar Seyssel Arrelia"
+-AME Interlagos M.C.C
+<br>
+Ambulatório Maternidade Interlagos
+<br>
 Hospital Geral de Grajaú
 <br>
 Hospital Geral de Pedreira
@@ -58,7 +65,12 @@ Hospital Geral de Pedreira
 Hospital Dia Rede Hora Certa
 
 #### Restaurantes
-Casa da Pizza
+No evento:
+<br> https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024
+<br>
+Fora do evento:
+<br>
+https://www.tripadvisor.com.br/RestaurantsNear-g303631-d12375582-Interlagos_Autodromo_Suites_Individuais_Em_Casa-Sao_Paulo_State_of_Sao_Paulo.html
 <br>
 Farol Cervejaria e Gourmet
 <br>
@@ -83,6 +95,11 @@ Mercado Municipal de São Paulo
 Beco do Batman
 <br>
 Teatro municipal São Paulo
+
+### Dicas gerais em site de turismo
+https://www.tripadvisor.com.br/AttractionsNear-g303631-d2349931-Autodromo_Jose_Carlos_Pace-Sao_Paulo_State_of_Sao_Paulo.html
+<br>
+https://www.queroviajarmais.com/lollapalooza/
 
 ## Autor(es)
 
