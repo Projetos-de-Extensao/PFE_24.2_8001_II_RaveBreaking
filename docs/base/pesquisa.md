@@ -59,7 +59,8 @@ Prainha Bar e Grill
 Quintal do Leo
 </p>
 
-### Pontos Turisticos em São Paulo <p align = "justify">
+### Pontos Turisticos em São Paulo
+
 Avenida Paulista
 Parque Ibirapuera
 Pinacoteca de São Paulo
