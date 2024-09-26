@@ -17,10 +17,11 @@ Uma pesquisa geral realizada pelo grupo para ampliar o conhecimento do tema e co
 
 ### Sites
 
-#### Site do lollapalooza:<p align = "justify">
-https://www.lollapaloozabr.com/ <br>
+#### Site do lollapalooza:
+https://www.lollapaloozabr.com/ 
+<br>
 https://web.archive.org/web/20240000000000*/https://www.lollapaloozabr.com/
-</p>
+
 
 #### Sites relacionados:<p align = "justify">
 https://rockinrio.com/rio/pt-br/line-up/
