@@ -66,6 +66,7 @@ Hospital Dia Rede Hora Certa
 
 #### Restaurantes
 No evento:
+<br>
 Link: [https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024](https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024)
 <br>
 <br>
