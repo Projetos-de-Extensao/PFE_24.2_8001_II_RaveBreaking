@@ -39,7 +39,7 @@ O objetivo da equipe de desenvolvimento é fornecer uma melhor experência para 
 ## Descrição do Usuário 
 
 <p align = "justify">
-Os usuários serão o público que irá frequentar o Lollapalooza 2025.
+O usuário será o público que irá frequentar o Lollapalooza 2025.
 </p>
 
 ## Recursos do produto
