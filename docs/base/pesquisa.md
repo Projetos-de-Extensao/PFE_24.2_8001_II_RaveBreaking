@@ -18,24 +18,24 @@ Uma pesquisa geral realizada pelo grupo para ampliar o conhecimento do tema e co
 ### Sites
 
 #### Site do lollapalooza:
-https://www.lollapaloozabr.com/ 
+- [https://www.lollapaloozabr.com/](https://www.lollapaloozabr.com/) 
 <br>
-https://web.archive.org/web/20240000000000*/https://www.lollapaloozabr.com/
+- [https://web.archive.org/web/20240000000000*/https://www.lollapaloozabr.com/](https://web.archive.org/web/20240000000000*/https://www.lollapaloozabr.com/)
 
 
 #### Sites relacionados:
-https://rockinrio.com/rio/pt-br/line-up/
+- [https://rockinrio.com/rio/pt-br/line-up/](https://rockinrio.com/rio/pt-br/line-up/)
 <br>
-https://brasil.tomorrowland.com/en/
+- [https://brasil.tomorrowland.com/en/](https://brasil.tomorrowland.com/en/)
 <br>
-https://www.primaverasound.com/pt/sao-paulo
+- [https://www.primaverasound.com/pt/sao-paulo](https://www.primaverasound.com/pt/sao-paulo)
 <br>
-https://downloadfestival.co.uk/
+- [https://downloadfestival.co.uk/](https://downloadfestival.co.uk/)
 
 ### Serviços próximos da área do evento
 
 #### Hospedagens
-https://www.letsatlantica.com.br/hotel-perto-do-lollapalooza
+Link: [https://www.letsatlantica.com.br/hotel-perto-do-lollapalooza](https://www.letsatlantica.com.br/hotel-perto-do-lollapalooza)
 <br>
 Hotel Paddock
 <br>
@@ -66,12 +66,12 @@ Hospital Dia Rede Hora Certa
 
 #### Restaurantes
 No evento:
-<br> https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024
+Link: [https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024](https://www.estadao.com.br/paladar/radar/saiba-onde-comer-no-lollapalooza-2024)
 <br>
 <br>
 Fora do evento:
 <br>
-https://www.tripadvisor.com.br/RestaurantsNear-g303631-d12375582-Interlagos_Autodromo_Suites_Individuais_Em_Casa-Sao_Paulo_State_of_Sao_Paulo.html
+Link: [https://www.tripadvisor.com.br/RestaurantsNear-g303631-d12375582-Interlagos_Autodromo_Suites_Individuais_Em_Casa-Sao_Paulo_State_of_Sao_Paulo.html](https://www.tripadvisor.com.br/RestaurantsNear-g303631-d12375582-Interlagos_Autodromo_Suites_Individuais_Em_Casa-Sao_Paulo_State_of_Sao_Paulo.html)
 <br>
 Farol Cervejaria e Gourmet
 <br>
@@ -98,9 +98,8 @@ Beco do Batman
 Teatro municipal São Paulo
 
 ### Dicas gerais em site de turismo
-https://www.tripadvisor.com.br/AttractionsNear-g303631-d2349931-Autodromo_Jose_Carlos_Pace-Sao_Paulo_State_of_Sao_Paulo.html
-<br>
-https://www.queroviajarmais.com/lollapalooza/
+- [https://www.tripadvisor.com.br/AttractionsNear-g303631-d2349931-Autodromo_Jose_Carlos_Pace-Sao_Paulo_State_of_Sao_Paulo.html](https://www.tripadvisor.com.br/AttractionsNear-g303631-d2349931-Autodromo_Jose_Carlos_Pace-Sao_Paulo_State_of_Sao_Paulo.html)
+- [https://www.queroviajarmais.com/lollapalooza/](https://www.queroviajarmais.com/lollapalooza/)
 
 ## Autor(es)
 
