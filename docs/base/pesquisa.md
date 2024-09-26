@@ -52,7 +52,7 @@ Farol Cervejaria e Gourmet
 Prainha Bar e Grill
 Quintal do Leo
 
-### Pontos Turisticos em São Paulo
+### Pontos Turísticos em São Paulo
 
 Avenida Paulista
 Parque Ibirapuera
