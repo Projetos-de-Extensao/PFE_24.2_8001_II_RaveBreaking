@@ -66,3 +66,100 @@
   text-decoration: none;
   border-radius: 5px;
 }
+
+/* Estilos gerais da navbar */
+.navbar {
+  background-color: #111;
+  padding: 1rem;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.nav-item {
+  position: relative;
+  margin-right: 2rem;
+}
+
+.nav-link {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  color: orange;
+}
+
+/* Estilos para o dropdown */
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #222;
+  list-style: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  display: block;
+  z-index: 10;
+}
+
+.dropdown li {
+  margin-bottom: 0.5rem;
+}
+
+.dropdown li a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.dropdown li a:hover {
+  color: orange;
+}
+
+/* Estilo para o botão de sign up */
+.signup-btn {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.signup-btn:hover {
+  background-color: darkorange;
+}
+
+/* Estilos do Footer */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+  padding: 20px;
+  color: white;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer-social a {
+  color: white;
+  margin-right: 15px;
+  font-size: 20px;
+}

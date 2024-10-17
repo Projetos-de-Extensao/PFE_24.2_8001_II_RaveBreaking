@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
-import 'style.css';
+
 import { Link } from 'react-router-dom';
 
-const NavBar = () => {
+function NavBar() {
   const [lineupDropdown, setLineupDropdown] = useState(false);
   const [gastronomiaDropdown, setGastronomiaDropdown] = useState(false);
   const [maisDropdown, setMaisDropdown] = useState(false);
@@ -67,6 +66,6 @@ const NavBar = () => {
       </div>
     </nav>
   );
-};
+}
 
 export default NavBar;
