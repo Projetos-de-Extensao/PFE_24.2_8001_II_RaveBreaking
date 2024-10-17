@@ -8,11 +8,15 @@ function App() {
   return (
     <>
     <Router>
+      {/* NavBar estará sempre visível em todas as páginas */}
+      <NavBar />
          <Routes>
            <Route path="/" element={<Home />} />
            <Route path="/about" element={<About />} />
          </Routes>
-      </Router>
+      {/* Footer estará sempre visível em todas as páginas */}
+      <Footer />
+    </Router>
     </>
   )
 }
