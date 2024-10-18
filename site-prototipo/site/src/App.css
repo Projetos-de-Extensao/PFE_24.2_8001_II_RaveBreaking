@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -71,23 +71,31 @@
 .navbar {
   background-color: #111;
   padding: 1rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 10px 20px;
 }
 
 .navbar-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 15px;
 }
 
 .nav-menu {
   display: flex;
   list-style: none;
   padding: 0;
+  gap: 15px;
 }
 
 .nav-item {
   position: relative;
   margin-right: 2rem;
+  gap: 15px;
 }
 
 .nav-link {
@@ -95,6 +103,7 @@
   font-size: 18px;
   text-decoration: none;
   cursor: pointer;
+  gap: 15px;
 }
 
 .nav-link:hover {
@@ -116,6 +125,7 @@
 
 .dropdown li {
   margin-bottom: 0.5rem;
+  gap: 15px;
 }
 
 .dropdown li a {
@@ -148,8 +158,12 @@
   justify-content: space-between;
   align-items: center;
   background-color: #000;
-  padding: 20px;
   color: white;
+  padding: 10px 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
 .footer a {
