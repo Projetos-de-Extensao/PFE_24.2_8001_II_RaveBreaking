@@ -10,7 +10,7 @@ function NavBar() {
     <nav className="navbar">
       <div className="navbar-container">
         <ul className="nav-menu">
-          <li><Link to="/">HOME</Link></li>
+          <li className='nav-item'><Link to="/">HOME</Link></li>
 
           {/* Line-Up Dropdown */}
           <li
