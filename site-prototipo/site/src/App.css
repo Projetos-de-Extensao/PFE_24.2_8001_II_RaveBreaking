@@ -42,41 +42,25 @@
 }
 
 .hero {
-  height: min-content;
-  width: min-content; 
-  display: flex;
-  align-items: center; 
-  justify-content: center; 
-  color: white;
-  background-size: cover;
-  background-position: center; 
-  margin: 0;
-  padding: 0;
-}
-
-.background-image {
-  width: 1920px;
-  height: 1080px;
-  background: url('./images/fundo-home.jpg') center / cover no-repeat;
+  background-image: url('https://picsum.photos/1920/1080');
   background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
   background-size: cover;
-  display: flex; 
-  align-items: center; 
-  justify-content: center; 
-  text-align: center;
-  
-  
+  background-position: center;
+  width: 100%;
+  padding-top: 400px;
+  padding-bottom: 400px;
 }
 
 .hero-content {
-  width: 100rem;
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.5); 
-  padding: 20px;
+  color: white;
+  padding: 40px 60px;
   border-radius: 10px;
+  background-color: rgba(51, 51, 51, 0.5); 
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
+
 
 .features {
   background-color: #fff;
@@ -209,3 +193,5 @@
   margin-right: 15px;
   font-size: 20px;
 }
+
+
