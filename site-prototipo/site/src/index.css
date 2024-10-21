@@ -19,6 +19,7 @@ a {
   color: orange;
   text-decoration: inherit;
 }
+
 a:hover {
   color: orange;
 }

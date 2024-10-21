@@ -42,6 +42,7 @@
 }
 
 .hero {
+  background-color: #000;
   width: 100%;
   padding-top: 400px;
   padding-bottom: 400px;
@@ -57,6 +58,15 @@
   text-align: center;
 }
 
+.hero-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* imagem abaixo do texto */
+}
 
 .features {
   background-color: #fff;
