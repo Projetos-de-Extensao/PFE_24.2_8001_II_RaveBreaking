@@ -255,19 +255,24 @@
   font-size: 20px;
 }
 
+
+/* Página de sign in */
 .signup-container {
+  display: flex;
   background-size: cover;
   background-position: center;
   padding: 50px;
-  height: 100vh; 
+  height: 50vh; 
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   text-align: center;
+  background-color: #888;
 }
 
 .signup-content {
+  display: flex;
   background: rgba(0, 0, 0, 0.7); 
   padding: 20px;
   border-radius: 10px;
@@ -287,18 +292,20 @@
 }
 
 .signup-form button {
-  padding: 10px;
+  display: flex;
+  justify-content: center;
+  padding-right: 10px;
   width: 100%;
   border: none;
   border-radius: 5px;
-  background-color: #ff4081; /* Cor chamativa */
+  background-color: #EE6018; /* Cor chamativa */
   color: white;
   font-size: 16px;
   cursor: pointer;
 }
 
 .signup-form button:hover {
-  background-color: #e91e63; /* Cor ao passar o mouse */
+  background-color: darkorange; /* Cor ao passar o mouse */
 }
 
 

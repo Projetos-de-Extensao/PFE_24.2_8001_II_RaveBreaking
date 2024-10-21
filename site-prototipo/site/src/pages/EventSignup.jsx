@@ -1,8 +1,8 @@
 function EventSignup() {
   return (
     <div className="signup-container">
-      <h1>Inscrição para o Lollapalooza</h1>
       <form className="signup-form">
+      <h1 className="">CADASTRO</h1>
         <div>
           <label htmlFor="name">Nome:</label>
           <input type="text" id="name" name="name" required />
@@ -12,10 +12,16 @@ function EventSignup() {
           <input type="email" id="email" name="email" required />
         </div>
         <div>
-          <label htmlFor="phone">Telefone:</label>
+          <label htmlFor="phone">Senha:</label>
           <input type="tel" id="phone" name="phone" required />
         </div>
-        <button type="submit">Inscrever-se</button>
+        <div>
+          <label htmlFor="phone">Confirmação de senha</label>
+          <input type="tel" id="phone" name="phone" required />
+        </div>
+        <div>
+          <button type="submit">Cadastrar</button>
+        </div>
       </form>
     </div>
   );
