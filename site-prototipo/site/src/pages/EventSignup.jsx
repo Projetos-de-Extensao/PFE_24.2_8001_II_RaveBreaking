@@ -1,8 +1,4 @@
-// src/pages/EventSignup.jsx
-import React from 'react';
-import './EventSignup.css'; 
-
-const EventSignup = () => {
+function EventSignup() {
   return (
     <div className="signup-container">
       <h1>Inscrição para o Lollapalooza</h1>
