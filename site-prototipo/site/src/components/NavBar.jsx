@@ -1,3 +1,4 @@
+// src/NavBar.jsx
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
@@ -61,7 +62,9 @@ function NavBar() {
         </ul>
 
         <div className="nav-icons">
-          <button className="signup-btn">SIGN UP</button>
+          <Link to="/signup">
+            <button className="signup-btn">SIGN UP</button>
+          </Link>
         </div>
       </div>
     </nav>
