@@ -332,3 +332,26 @@
   object-fit: cover;
   z-index: -1; /* imagem abaixo do texto */
 }
+
+.turismo-text-content {
+  justify-content: right;
+  width: 100%;
+}
+
+.turismo-paragraph {
+  font-size: larger;
+  text-align: justify;
+}
+
+.img-turismo-one {
+  z-index: -1;
+  position: relative;
+  right: 5%;
+
+}
+
+.flex-container-turismo {
+  display: flex;
+  align-items: center;
+
+}
