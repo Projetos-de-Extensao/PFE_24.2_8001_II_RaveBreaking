@@ -259,16 +259,10 @@
 /* Página de sign in */
 .signup-container {
   display: flex;
-  background-size: cover;
-  background-position: center;
-  padding: 50px;
-  height: 50vh; 
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: white;
-  text-align: center;
   background-color: #888;
+  width: 100%;
+  
 }
 
 .signup-content {
@@ -276,7 +270,6 @@
   background: rgba(0, 0, 0, 0.7); 
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
 }
 
 .signup-form {
