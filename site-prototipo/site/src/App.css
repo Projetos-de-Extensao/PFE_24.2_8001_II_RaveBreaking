@@ -96,6 +96,7 @@
   }
 }
 
+/* Estilos da página sobre nós */
 .sobre {
   width: 100%;
   padding-top: 400px;
@@ -139,8 +140,6 @@
   text-decoration: wavy;
   border-radius: 10px;
 }
-
-/* Estilos da página sobre nós */
 
 /* Estilos gerais da navbar */
 .navbar {
@@ -324,4 +323,12 @@
 
 .signup-form button:hover {
   background-color: darkorange; /* Cor ao passar o mouse */
+}
+
+.mapaImg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* imagem abaixo do texto */
 }
