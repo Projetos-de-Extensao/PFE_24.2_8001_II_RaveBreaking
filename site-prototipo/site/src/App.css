@@ -260,6 +260,7 @@
 .footer-site a {
   color: white;
   font-size: 18px;
+  text-decoration: underline;
 }
 
 .footer-site a:hover {
@@ -280,55 +281,95 @@
   transform: scale(1.1);
 }
 
-/* Página de sign in */
-.signup-container {
-  display: flex;
-  color: white;
-  background-color: #888;
-  width: 100%;
-
-}
-
-.signup-content {
-  display: flex;
-  background: rgba(0, 0, 0, 0.7);
-  padding: 20px;
-  border-radius: 10px;
-}
-
-.signup-form {
-  margin-top: 20px;
-}
-
-.signup-form input {
-  padding: 10px;
-  margin: 10px 0;
-  width: 100%;
-  border: none;
-  border-radius: 5px;
-}
-
-.signup-form button {
-  display: flex;
-  justify-content: center;
-  padding-right: 10px;
-  width: 100%;
-  border: none;
-  border-radius: 5px;
-  background-color: #EE6018; /* Cor chamativa */
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-}
-
-.signup-form button:hover {
-  background-color: darkorange; /* Cor ao passar o mouse */
-}
-
 .mapaImg {
   position: relative;
   width: 100%;
   height: 100%;
   object-fit: cover;
   z-index: -1; /* imagem abaixo do texto */
+}
+
+/* Estilos da signup page */
+.signup-container {
+  background-color: rgba(44, 44, 44, 0.776);
+  padding: 2rem;
+  width: 35%;
+  position: fixed;
+  top: 150px;
+  right: 70px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+/* Form styling */
+.signup-section {
+  display: flex;
+}
+
+.signup-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup-body {
+  text-align: left;
+}
+
+.signup-form h1 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: white;
+  text-decoration: underline;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.signup-form label {
+  color: white;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.signup-form input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+  background-color: #ccc;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.signup-form button {
+  align-items: center;
+  padding: 0.8rem;
+  background-color: #EE6018;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.signup-form button:hover {
+  background-color: #cf5213;
+}
+
+/* Ensure proper layout on smaller screens */
+@media (max-width: 768px) {
+  section {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .hero-image {
+    max-width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  .signup-container {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
