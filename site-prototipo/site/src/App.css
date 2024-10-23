@@ -353,10 +353,9 @@
 }
 
 .signup-form button:hover {
-  background-color: #cf5213;
+  background-color:  #cf5213; /* Cor ao passar o mouse */
 }
 
-/* Ensure proper layout on smaller screens */
 @media (max-width: 768px) {
   section {
     flex-direction: column;
@@ -372,4 +371,33 @@
     width: 90%;
     margin: 0 auto;
   }
+}
+
+.mapaImg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* imagem abaixo do texto */
+}
+
+.turismo-text-content {
+  justify-content: right;
+  width: 100%;
+}
+
+.turismo-paragraph {
+  font-size: larger;
+  text-align: justify;
+}
+
+.img-turismo-one {
+  z-index: -1;
+  position: relative;
+  right: 5%;
+}
+
+.flex-container-turismo {
+  display: flex;
+  align-items: center;
 }

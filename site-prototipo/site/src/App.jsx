@@ -6,6 +6,7 @@ import Home from './pages/Home.jsx';
 import About from './pages/About.jsx';
 import EventSignup from './pages/EventSignup.jsx';
 import Mapa from './pages/Mapa.jsx';
+import Turismo from './pages/Turismo.jsx';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/signup" element={<EventSignup />} />
           <Route path="/mais/mapa" element={<Mapa />} />
+          <Route path="/mais/turismo" element={<Turismo />} />
         </Routes>
       </Router>
     </>
