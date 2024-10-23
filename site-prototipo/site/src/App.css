@@ -397,6 +397,60 @@
   right: 5%;
 }
 
+.data-line-up {
+  position: absolute;
+  bottom: 0;
+  left: 25%;
+  background-color: #000;
+
+
+}
+
+.conteiner-line-up-img {
+  display: flex;
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 50%;
+  left: 0%;
+  top: 10%;
+  color: white;
+  background-image: url('./images/lineup.jpg');
+  background-size: cover; /* cobre toda a div */
+  background-position: center; /* centraliza a imagem */
+  background-repeat: no-repeat; /* evita repetição da imagem */
+  align-items: center;
+  
+
+  
+}
+
+.conteiner-tabelas-line-up {
+  display: flex;
+  gap: 5rem;
+  position: relative;
+  top: 10rem;
+}
+
+.elemento-tabela {
+  border: 1px white solid;
+  text-align: center;
+  background-color: #1E1E1E;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 500;
+  font-style:normal;
+  font-size: large; 
+}
+
+
+.tabela-cabecalho {
+  color:white;
+  background-color: #EE6018;
+  text-align: center;
+  border: 1px white solid;
+  font-family: "Inria Sans", sans-serif;
+}
+
 .flex-container-turismo {
   display: flex;
   align-items: center;

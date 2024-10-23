@@ -8,6 +8,7 @@ import EventSignup from './pages/EventSignup.jsx';
 import Mapa from './pages/Mapa.jsx';
 import Turismo from './pages/Turismo.jsx';
 import GastronomiaRestaurantes  from './pages/Gastronomia.jsx'
+import Lineup from './pages/LineUp.jsx';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <Route path="/mais/mapa" element={<Mapa />} />
           <Route path="/mais/turismo" element={<Turismo />} />
           <Route path="/gastronomia/restaurantes" element={<GastronomiaRestaurantes/>} />
+          <Route path="/lineup/sexta" element={<Lineup/>} />
         </Routes>
       </Router>
     </>
