@@ -15,6 +15,7 @@
 }
 
 a {
+  font-family: "Inria Sans", sans-serif;
   font-weight: 500;
   color: orange;
   text-decoration: inherit;
@@ -30,6 +31,7 @@ p {
 }
 
 body {
+  font-family: "Inria Sans", sans-serif;
   margin: 0;
   display: flex;
   place-items: center;
@@ -38,6 +40,7 @@ body {
 }
 
 h1 {
+  font-family: "Inria Sans", sans-serif;
   font-size: 3.2em;
   line-height: 1.1;
 }
@@ -48,7 +51,7 @@ button {
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
-  font-family: inherit;
+  font-family: "Inria Sans", sans-serif;
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
@@ -64,13 +67,13 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-<<<<<<< HEAD
+
     color: white;
     background-color: black;
-=======
+
     color: #213547;
     background-color: #1E1E1E;
->>>>>>> 7edd6f0a25f81509eaf0ba876b7ff424ff651efb
+
   }
   a:hover {
     color: darkorange;
