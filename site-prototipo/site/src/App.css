@@ -506,3 +506,9 @@
   display: flex;
   align-self: center;
 }
+
+.gps-container{
+  display: flex;
+  border-style: solid;
+  border-color: orange;
+}
