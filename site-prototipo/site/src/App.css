@@ -439,7 +439,8 @@
   font-family: "Inria Sans", sans-serif;
   font-weight: 500;
   font-style:normal;
-  font-size: large; 
+  font-size: large;
+  padding: 10px; 
 }
 
 
@@ -449,6 +450,7 @@
   text-align: center;
   border: 1px white solid;
   font-family: "Inria Sans", sans-serif;
+  padding: 10px;
 }
 
 .flex-container-turismo {
