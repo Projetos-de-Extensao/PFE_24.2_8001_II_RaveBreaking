@@ -10,7 +10,7 @@ function Restaurantes(){
         <section className="opcoes">
         <div>
             <h2 className="res-nome1">Chimi</h2>
-            <div className='Chimi'>
+            <div className='chimi'>
                 <h2 className='chimi-op1'>choripán pimentão</h2>
                 <img src={choripane1} alt='Foto do sanduiche choripane do restaurante' className='img-choripane' width="178" height="160" />
             </div>

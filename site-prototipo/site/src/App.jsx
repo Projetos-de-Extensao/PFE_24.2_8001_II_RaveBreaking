@@ -9,6 +9,7 @@ import Mapa from './pages/Mapa.jsx';
 import Turismo from './pages/Turismo.jsx';
 import GastronomiaRestaurantes  from './pages/Gastronomia.jsx'
 import Lineup from './pages/LineUp.jsx';
+import Gps from './pages/Gps.jsx';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route path="/mais/turismo" element={<Turismo />} />
           <Route path="/gastronomia/restaurantes" element={<GastronomiaRestaurantes/>} />
           <Route path="/lineup/sexta" element={<Lineup/>} />
+          <Route path="/mais/gps" element={<Gps/>} />
         </Routes>
       </Router>
     </>

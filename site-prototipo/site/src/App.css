@@ -283,6 +283,8 @@
 
 .mapaImg {
   position: relative;
+  top: 0;
+  left:0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -387,8 +389,13 @@
 }
 
 .turismo-paragraph {
+  color: white;
   font-size: larger;
   text-align: justify;
+}
+
+.turismo-titulo {
+  color: white;
 }
 
 .img-turismo-one {
@@ -433,6 +440,7 @@
 }
 
 .elemento-tabela {
+  color: white;
   border: 1px white solid;
   text-align: center;
   background-color: #1E1E1E;
@@ -470,10 +478,12 @@
 }
 
 .h1-res{
+  color: white;
   font-size: 2.5em;
 }
 
 .opcoes{
+  color: white;
   top: auto;
   bottom: 200px;
   width: 1250px;
@@ -482,11 +492,17 @@
 }
 
 .chimi{
-  background-color: #1E1E1E;
-  width: 398px;
-  height: 202px;
+  color: white;
+  display: flex;
+  background-color: #000000;
+  width: 410px;
+  height: 204px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: orange;
 }
 
-.chimi-op1{
-  align-content: flex-start;
+.img-choripane{
+  display: flex;
+  align-self: center;
 }
