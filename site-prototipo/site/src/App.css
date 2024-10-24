@@ -480,11 +480,16 @@
 }
 
 .chimi{
+  display: flex;
   background-color: #1E1E1E;
   width: 398px;
   height: 202px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: orange;
 }
 
-.chimi-op1{
-  align-content: flex-start;
+.img-choripane{
+  display: flex;
+  align-self: center;
 }
