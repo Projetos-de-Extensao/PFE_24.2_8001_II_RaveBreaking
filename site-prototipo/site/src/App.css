@@ -460,7 +460,7 @@
 
 .topo-res{
   top: auto;
-  bottom: 300px;
+  bottom: 200px;
   width: 100%;
   height: 100px;
   position: relative;
@@ -469,4 +469,22 @@
 
 .h1-res{
   font-size: 2.5em;
+}
+
+.opcoes{
+  top: auto;
+  bottom: 200px;
+  width: 1250px;
+  text-align: left;
+  position: relative;
+}
+
+.chimi{
+  background-color: #1E1E1E;
+  width: 398px;
+  height: 202px;
+}
+
+.chimi-op1{
+  align-content: flex-start;
 }
