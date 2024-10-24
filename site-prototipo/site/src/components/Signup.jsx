@@ -1,4 +1,4 @@
-import background from '../images/fundo-login.jpg';
+import background from '../images/fundo-login1.jpg';
 
 function Signup() {
   return (
