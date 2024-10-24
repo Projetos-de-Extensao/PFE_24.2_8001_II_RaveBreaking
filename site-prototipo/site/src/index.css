@@ -24,6 +24,11 @@ a:hover {
   color: orange;
 }
 
+p {
+  font-family: "Inria Sans", sans-serif;
+  font-size: large;
+}
+
 body {
   margin: 0;
   display: flex;
@@ -59,8 +64,8 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    color: white;
+    background-color: black;
   }
   a:hover {
     color: darkorange;

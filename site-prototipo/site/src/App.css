@@ -107,7 +107,7 @@
   color: white;
   padding: 40px 60px;
   border-radius: 10px;
-  background-color: rgba(33, 33, 33, 0.5);
+  background-color: rgba(0, 0, 0, 0.646);
   justify-content: center;
   align-items: center;
   text-align: left;
@@ -398,10 +398,7 @@
 }
 
 .data-line-up {
-  position: absolute;
-  bottom: 0;
-  left: 25%;
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.683);
 
 
 }
@@ -419,7 +416,8 @@
   background-size: cover; /* cobre toda a div */
   background-position: center; /* centraliza a imagem */
   background-repeat: no-repeat; /* evita repetição da imagem */
-  align-items: center;
+  align-items: flex-end;
+  justify-content: center;
   
 
   
@@ -427,9 +425,11 @@
 
 .conteiner-tabelas-line-up {
   display: flex;
-  gap: 40%;
+  align-items: center;
+  justify-content: center;
+  gap: 8rem;
   position: relative;
-  top: 12rem;
+  top: 20rem;
 }
 
 .elemento-tabela {
@@ -437,10 +437,11 @@
   text-align: center;
   background-color: #1E1E1E;
   font-family: "Inria Sans", sans-serif;
+  color: #ccc;  
   font-weight: 500;
   font-style:normal;
-  font-size: large;
-  padding: 10px; 
+  font-size: x-large;
+  padding: 2rem; 
 }
 
 
@@ -450,7 +451,8 @@
   text-align: center;
   border: 1px white solid;
   font-family: "Inria Sans", sans-serif;
-  padding: 10px;
+  padding: 2rem;
+  font-size: xx-large;
 }
 
 .flex-container-turismo {
