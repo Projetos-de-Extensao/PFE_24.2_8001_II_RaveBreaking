@@ -503,9 +503,15 @@
   border-color: orange;
 }
 
+.chimi-op1{
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
 .img-choripane{
   display: flex;
   align-self: center;
+  border-radius: 10px;
 }
 
 .gps-container{
