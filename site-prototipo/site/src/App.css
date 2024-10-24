@@ -389,8 +389,13 @@
 }
 
 .turismo-paragraph {
+  color: white;
   font-size: larger;
   text-align: justify;
+}
+
+.turismo-titulo {
+  color: white;
 }
 
 .img-turismo-one {
