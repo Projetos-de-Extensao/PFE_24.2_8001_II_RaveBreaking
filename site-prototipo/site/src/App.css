@@ -404,6 +404,7 @@
   right: 5%;
 }
 
+
 .data-line-up {
   background-color: rgba(0, 0, 0, 0.683);
 
@@ -465,7 +466,7 @@
 
 .flex-container-turismo {
   display: flex;
-  align-items: center;
+  flex-direction: row;
 }
 
 .topo-res{
