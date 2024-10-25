@@ -7,7 +7,7 @@ function ContTurismo() {
                 <img src={turismo1} alt='imagem 1 da página turismo' className='img-turismo-one'/>
                 <div className='turismo-content'>
                     <h1 className='turismo-titulo'>O que fazer em São Paulo?</h1>
-                    <p className='turismo-paragraph'>
+                    <p className='content-one-turismo'>
                     Se você está planejando ficar mais tempo em São Paulo e quer explorar a cidade além do Lollapalooza, há uma 
                     infinidade de atrações imperdíveis que valem a visita! São Paulo é uma metrópole vibrante, rica em cultura, arte, 
                     natureza e gastronomia, oferecendo experiências para todos os gostos. Desde museus renomados e centros culturais até parques e restaurantes, 
