@@ -385,59 +385,128 @@
 
 .turismo-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 5px; 
-  width: 100%;
-  justify-content: center;
-  align-items: center;
-
+  gap: 5px;
+  grid-template-columns: auto auto auto auto; 
+  grid-template-columns: 350px 420px;
+  grid-template-areas: 
+        "a"
+        "b"
+        "c"
+        "d"
 }
 
-.turismo-content {
-  color: white;
-  padding: 20px;
-  font-size: 1.2rem;
-  text-align: center;
-  border-radius: 8px;
+
+.turismo-one{
+  grid-area: a;
+  height: 45rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.turismo-two{
+  grid-area: b;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.turismo-three{
+  grid-area: c;
+  height: 38rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.turismo-four{
+  grid-area: d;
+  height: 8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-one-turismo{
+  width: 100%;
+}
+
+.img-two-turismo {
+  width: 100%;
 }
 
 .content-one-turismo {
-  color: white;
+  text-align: center;
   font-size: larger;
-  text-align: justify;
-}
-
-.turismo-titulo {
   color: white;
 }
 
 .content-two-turismo{
-  grid-area: 2 / 1;
-  color: white;
+  text-align: center;
   font-size: larger;
-  text-align: justify;
+  color: white;
 }
 
-.img-turismo-one {
-  top: 5%;
-  position: relative;
-  display: flex;
-  z-index: -1;
-  flex-direction: column;
-  align-items: center; 
-  justify-content: center; 
-}
-.img-turismo-two {
-  left: 30%;
-  position: relative;
-  display: flex;
-  grid-area: 2 / 2;
-  z-index: -1;
-  flex-direction: column;
-  align-items: center; 
-  justify-content: center; 
+.turismo-titulo {
+  font-size: xx-large;
+  color: white;
 }
 
+@media (min-width: 1024px) {
+  .turismo-container {
+    gap: 100px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+      "a b"
+      "d c";
+  }
+
+  .turismo-one {
+    height: 50rem;
+  }
+
+  .turismo-two {
+    height: 50rem;
+  }
+
+  .turismo-three {
+    height: 4rem;
+  }
+
+  .turismo-four {
+    height: 8rem;
+  }
+  
+  .img-one-turismo{
+    width: 90%;
+  }
+  .img-two-turismo {
+    width: 100%;
+    
+  }
+  .content-one-turismo {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+  
+  .content-two-turismo{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+
+  .turismo-titulo {
+    font-size: 50px;
+    color: white;
+  }
+}
 
 .data-line-up {
   background-color: rgba(0, 0, 0, 0.683);
