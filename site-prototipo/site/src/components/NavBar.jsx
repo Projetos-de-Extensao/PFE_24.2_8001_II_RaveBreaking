@@ -1,74 +1,67 @@
-// src/NavBar.jsx
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import Accordion from "./Accordion.jsx"; // Importando o componente Accordion
 
-function NavBar() {
-  const [lineupDropdown, setLineupDropdown] = useState(false);
-  const [gastronomiaDropdown, setGastronomiaDropdown] = useState(false);
-  const [maisDropdown, setMaisDropdown] = useState(false);
+function Navbar() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
 
   return (
     <nav className="navbar">
-      <div className="navbar-container">
-        <ul className="nav-menu">
-          <li className='nav-item'><Link to="/">HOME</Link></li>
-
-          {/* Line-Up Dropdown */}
-          <li
-            className="nav-item"
-            onMouseEnter={() => setLineupDropdown(true)}
-            onMouseLeave={() => setLineupDropdown(false)}
-          >
-            <span className="nav-link">LINE-UP ▼</span>
-            {lineupDropdown && (
-              <ul className="dropdown">
-                <li><Link to="/lineup/sexta">Sexta-feira (28/03)</Link></li>
-                <li><Link to="/lineup/sabado">Sábado (29/03)</Link></li>
-                <li><Link to="/lineup/domingo">Domingo (30/03)</Link></li>
-              </ul>
-            )}
-          </li>
-
-          {/* Gastronomia Dropdown */}
-          <li
-            className="nav-item"
-            onMouseEnter={() => setGastronomiaDropdown(true)}
-            onMouseLeave={() => setGastronomiaDropdown(false)}
-          >
-            <span className="nav-link">GASTRONOMIA ▼</span>
-            {gastronomiaDropdown && (
-              <ul className="dropdown">
-                <li><Link to="/gastronomia/restaurantes">Restaurantes Locais</Link></li>
-                <li><Link to="/gastronomia/cardapios">Cardápios</Link></li>
-              </ul>
-            )}
-          </li>
-
-          {/* Mais Dropdown */}
-          <li
-            className="nav-item"
-            onMouseEnter={() => setMaisDropdown(true)}
-            onMouseLeave={() => setMaisDropdown(false)}
-          >
-            <span className="nav-link">MAIS ▼</span>
-            {maisDropdown && (
-              <ul className="dropdown">
-                <li><Link to="/mais/mapa">Mapa Local</Link></li>
-                <li><Link to="/mais/gps">GPS</Link></li>
-                <li><Link to="/mais/turismo">Turismo</Link></li>
-              </ul>
-            )}
-          </li>
-        </ul>
-
-        <div className="nav-icons">
+      <div className="navbar-logo">LollaPalooza</div>
+      <div className="nav-icons">
           <Link to="/signup">
             <button className="signup-btn">SIGN UP</button>
           </Link>
-        </div>
       </div>
+      <button className="menu-toggle" onClick={toggleMenu}>
+        ☰
+      </button>
+      <ul className={`navbar-menu ${isOpen ? "open" : ""}`}>
+        <li className="nav-item">
+          <Link to="/">HOME</Link>
+        </li>
+        <li className="nav-item">
+          <Accordion 
+            title="LINE-UP ▼"
+            content={
+              <>
+                <Link to="/lineup/sexta">Sexta-feira (28/03)</Link><br />
+                <Link to="/lineup/sabado">Sábado (29/03)</Link><br />
+                <Link to="/lineup/domingo">Domingo (30/03)</Link>
+              </>
+            }
+          />
+        </li>
+        <li className="nav-item">
+          <Accordion 
+            title="GASTRONOMIA ▼"
+            content={
+              <>
+                <Link to="/gastronomia/restaurantes">Restaurantes Locais</Link><br />
+                <Link to="/gastronomia/cardapios">Cardápios</Link>
+              </>
+            }
+          />
+        </li>
+        <li className="nav-item">
+          <Accordion 
+            title="MAIS ▼"
+            content={
+              <>
+                <Link to="/mais/mapa">Mapa Local</Link><br />
+                <Link to="/mais/gps">GPS</Link><br />
+                <Link to="/mais/turismo">Turismo</Link>
+              </>
+            }
+          />
+        </li>
+      </ul>
     </nav>
   );
 }
 
-export default NavBar;
+export default Navbar;
