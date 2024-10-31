@@ -126,18 +126,6 @@
   padding: 10px 20px;
 }
 
-/* Responsividade do .navbar  */
-@media only screen and (min-width: 1025) {
-  .navbar {
-    background-color: #111;
-    padding: 1rem;
-    position: fixed;
-    width: 70.5%;
-    top: 0;
-    left: 0;
-    padding: 10px 20px;
-  }
-}
 
 .navbar-container {
   display: flex;
@@ -156,7 +144,7 @@
 .nav-item {
   position: relative;
   margin-right: 2rem;
-  gap: 15px;
+  font-size: x-large;
 }
 
 .nav-link {
@@ -207,7 +195,7 @@
   padding: 0.5rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  margin-right: 2rem;
+  margin-left: 10rem;
 }
 
 .signup-btn:hover {
@@ -602,5 +590,128 @@
     grid-template-columns: 1fr 1fr; 
     border: 3px solid orange; 
   }
+}
+
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000000;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.navbar-logo {
+  font-size: 24px;
+  color: white;
+}
+
+.menu-toggle {
+  font-size: 24px;
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  right: 5%;
+}
+
+/* Menu fechado por padrão no mobile */
+.navbar-menu {
+  list-style-type: none;
+  display: none;
+  flex-direction: column;
+  width: 100%;
+  background-color: #000000;
+  position: absolute;
+  top: 100%; /* Posição logo abaixo da navbar */
+  left: 0; 
+}
+
+.navbar-menu li {
+  text-align: center;
+  padding: 10px 0;
+  border-top: 1px solid #333;
+}
+
+.navbar-home {
+  color: white;
+  position: relative;
+  margin-right: 2rem;
+  font-size: x-large;
+}
+
+/* Mostrar o menu se aberto */
+.navbar-menu.open {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+/* Layout de desktop */
+@media (min-width: 768px) {
+  .navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+  
+  .menu-toggle {
+    display: none; /* Esconder o botão no desktop */
+  }
+
+  .navbar {
+    justify-content: space-between;
+  }
+
+  .navbar-menu {
+    display: flex;
+    flex-direction: row;
+    position: static;
+    width: auto;
+    background: none;
+  }
+
+  .navbar-menu li {
+    border-top: none;
+    margin: 0 15px;
+    padding: 0;
+  }
+}
+
+.accordion {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  border: none;
+  text-align: left;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active,
+.accordion:hover {
+  background-color: black;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: black;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
 }
 
