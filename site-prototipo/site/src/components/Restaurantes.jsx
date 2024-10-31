@@ -1,4 +1,4 @@
-import choripane1 from '../images/choripane1.jpg'
+import choripane1 from '../images/restaurante/choripane1.jpg'
 function Restaurantes(){
     return (
         <>
