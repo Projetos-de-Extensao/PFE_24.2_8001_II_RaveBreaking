@@ -62,8 +62,8 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
   object-fit: cover;
   z-index: -1; /* imagem abaixo do texto */
 }
@@ -268,6 +268,10 @@
 /* Estilos da signup page */
 .signup-container {
   background-color: rgba(44, 44, 44, 0.776);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
   padding: 2rem;
   width: 35%;
   position: fixed;
@@ -275,6 +279,7 @@
   right: 70px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   border-radius: 8px;
+  bottom: 10%;
 }
 
 /* Form styling */
@@ -285,6 +290,8 @@
 .signup-form {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-self: center;
 }
 
 .signup-body {
@@ -339,12 +346,12 @@
   }
 
   .hero-image {
-    max-width: 100%;
+    max-width: auto;
     margin-bottom: 2rem;
   }
 
   .signup-container {
-    width: 90%;
+    width: auto;
     margin: 0 auto;
   }
 }
@@ -513,30 +520,6 @@
   gap: 8rem;
   position: relative;
   top: 20rem;
-}
-
-.elemento-tabela {
-  color: white;
-  border: 1px white solid;
-  text-align: center;
-  background-color: #1E1E1E;
-  font-family: "Inria Sans", sans-serif;
-  color: #ccc;  
-  font-weight: 500;
-  font-style:normal;
-  font-size: x-large;
-  padding: 2rem; 
-}
-
-
-.tabela-cabecalho {
-  color:white;
-  background-color: #EE6018;
-  text-align: center;
-  border: 1px white solid;
-  font-family: "Inria Sans", sans-serif;
-  padding: 2rem;
-  font-size: xx-large;
 }
 
 .flex-container-turismo {

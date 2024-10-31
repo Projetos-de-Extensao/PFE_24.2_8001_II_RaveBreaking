@@ -10,6 +10,7 @@ import Turismo from './pages/Turismo.jsx';
 import GastronomiaRestaurantes  from './pages/Gastronomia.jsx'
 import Lineup from './pages/LineUp.jsx';
 import Gps from './pages/Gps.jsx';
+import styled from 'styled-components';
 
 
 function App() {
