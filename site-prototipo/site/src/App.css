@@ -636,7 +636,7 @@
 }
 
 /* Layout de desktop */
-@media (min-width: 768px) {
+@media only screen and (min-width: 768px) {
   .navbar {
     width: 100%;
     display: flex;
@@ -671,7 +671,19 @@
     margin: 0 15px;
     padding: 0;
   }
+  
+  .signup-btn {
+    background-color: #EE6018;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+  }
 }
+
+
 
 .accordion {
   background-color: black;
