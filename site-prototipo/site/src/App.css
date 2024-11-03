@@ -195,7 +195,8 @@
   padding: 0.5rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 10rem;
+  margin-left: 6rem;
+  font-size: medium;
 }
 
 .signup-btn:hover {
@@ -354,9 +355,8 @@
 
 .turismo-container {
   display: grid;
-  gap: 5px;
   grid-template-rows: auto auto auto auto; 
-  grid-template-columns: 350px 420px;
+  grid-template-columns: auto auto;
   grid-template-areas: 
         "a"
         "b"
@@ -364,10 +364,9 @@
         "d"
 }
 
-
 .turismo-one{
   grid-area: a;
-  height: 45rem;
+  height: 120%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -376,7 +375,7 @@
 
 .turismo-two{
   grid-area: b;
-  height: 10rem;
+  height: 140%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -385,7 +384,7 @@
 
 .turismo-three{
   grid-area: c;
-  height: 38rem;
+  height: 130%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -394,7 +393,7 @@
 
 .turismo-four{
   grid-area: d;
-  height: 8rem;
+  height: 140%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -636,18 +635,16 @@
 }
 
 /* Layout de desktop */
-@media only screen and (min-width: 768px) {
+@media (min-width: 768px) {
   .navbar {
     width: 100%;
     display: flex;
-    justify-content: space-between;
     align-items: center;
     background-color: #000000;
     padding: 10px 20px;
     position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
+    align-items: center;
+  
   }
   
   .menu-toggle {
@@ -664,11 +661,12 @@
     position: static;
     width: auto;
     background: none;
+    align-items: center;
   }
 
   .navbar-menu li {
     border-top: none;
-    margin: 0 15px;
+
     padding: 0;
   }
   
