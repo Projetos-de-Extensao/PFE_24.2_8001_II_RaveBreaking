@@ -11,6 +11,9 @@ import GastronomiaRestaurantes  from './pages/Gastronomia.jsx'
 import Lineup from './pages/LineUp.jsx';
 import Gps from './pages/Gps.jsx';
 import styled from 'styled-components';
+import { useState, useEffect } from 'react';
+import Dropdown from './components/Dropdown';
+import MapView from './components/MapView';
 
 
 function App() {
