@@ -166,7 +166,7 @@
   padding: 0.5rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 6rem;
+  margin-left: 15rem;
   font-size: medium;
 }
 
@@ -231,6 +231,175 @@
 }
 
 
+<<<<<<< HEAD:src/App.css
+=======
+
+/*Estilo para a página do mapa do festival */
+
+.legenda-mapa-fest{
+  color: white;
+  text-align: left;
+
+}
+
+.local-div {
+  display: grid;
+  gap: 20px;
+  width: 100%;
+  position: relative;
+  top: 8vh
+}
+
+.mapaImg {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  border-radius: 50px;
+}
+
+.mapaLeg{
+  border-radius: 20px;
+}
+
+@media (min-width: 1024px) {
+  .legenda-mapa-fest {
+    text-align: center; /* Alinha o texto ao centro em telas grandes */
+  }
+
+  .local-div {
+    display: grid;
+    gap: 30px; /* Ajusta o espaçamento para telas maiores */
+    width: 80%; /* Define a largura da div em 80% da tela */
+    position: relative;
+    top: 5vh; /* Ajusta o topo para um valor mais adequado para desktop */
+    margin: 0 auto; /* Centraliza a div */
+  }
+
+  .mapaImg {
+    width: 80%; /* Define a largura da imagem para 80% da div pai */
+    height: auto; /* Mantém a proporção da imagem */
+    z-index: -1;
+    border-radius: 30px; /* Ajusta o arredondamento da borda para a imagem */
+  }
+
+  .mapaLeg {
+    border-radius: 30px; /* Ajusta o arredondamento da borda em telas grandes */
+    width: 100%;
+  }
+
+}
+
+
+
+
+/* Estilos da página de login */
+.login-container {
+  background-color: rgba(44, 44, 44, 0.776);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  padding: 2rem;
+  position: fixed;
+  top: 150px;
+  right: 70px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  bottom: 10%;
+}
+
+/* Imagem de fundo */
+.login-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  z-index: -1; /* Coloca a imagem atrás do conteúdo */
+}
+
+/* Estilos do formulário */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+
+.login-form h1 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: white;
+  text-decoration: underline;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.login-body label {
+  color: white;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.login-body input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+  background-color: #ccc;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.login-form button {
+  align-items: center;
+  padding: 0.8rem;
+  background-color: #EE6018;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.login-form button:hover {
+  background-color: #cf5213;
+}
+
+.signup-link {
+  text-align: center;
+  color: white;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.signup-link a {
+  color: #EE6018;
+  text-decoration: none;
+}
+
+.signup-link a:hover {
+  text-decoration: underline;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .login-container {
+    width: auto;
+    margin: 0 auto;
+  }
+}
+
+
+>>>>>>> c0be0d319d7f26847c2283df8b0993aa6c9b27d8:site-prototipo/site/src/App.css
 /* Estilos da signup page */
 .signup-container {
   background-color: rgba(44, 44, 44, 0.776);
@@ -239,7 +408,6 @@
   justify-content: center;
   align-self: center;
   padding: 2rem;
-  width: 35%;
   position: fixed;
   top: 150px;
   right: 70px;
@@ -492,45 +660,89 @@
 }
 
 .topo-res{
-  top: auto;
-  bottom: 1rem;
+  margin-top: 20%;
+  margin-bottom: 4%;
   display: flex;
   position: relative;
-  z-index: -1;
-  height: 5rem;
-}
-
-.h1-res{
   color: white;
   font-size: 1.5em;
 }
 
 .restaurantes-conteiner{
   display: grid;
-  gap: 1.2rem;
+  position: relative;
+  gap: 4%;
+  width: 100%;
   grid-template-rows: auto;
   justify-content: center;
+  margin-bottom: 16%;
+}
+
+.restaurantes-conteiner-ultimo{
+  display: grid;
+  position: relative;
+  gap: 4%;
+  width: 100%;
+  grid-template-rows: auto;
+  justify-content: center;
+  margin-bottom: 29%;
+}
+
+
+.nome-res{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  font-size: 1.5rem;
 }
 
 .item-res{
-  gap: 0.5rem;
+  display: grid;
+  gap: 1%;
   grid-template-areas: 
-      "a" "b"
-      "c" "b"
+      "a b"
+      "c b" 
   ;
   color: white;
   background-color: #000000;
   border-style: solid;
   border-radius: 10px;
   border-color: orange;
-  width: 20rem;
-  height: 9.5rem;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
 
-.nome-res{
-  color: #fff;
-  height: 1.2rem;
-  font-size: 1.5rem;
+.item-res-nome{
+  display: flex;
+  position: relative;
+  grid-area: a;
+  justify-content: center;
+  font-size: 109%;
+}
+
+.item-res-desc{
+  display: flex;
+  position: relative;
+  grid-area: c;
+  justify-content: center;
+  font-size: 80%;
+  width: 12rem;
+}
+
+.item-res-img{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  border-radius: 10px;
+  grid-area: b;
+  height: 6.5rem;
+  width: 6.5rem;
 }
 
 
@@ -556,7 +768,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: #000000;
-  padding: 10px 20px;
+  padding: 5px 20px;
   position: fixed;
   top: 0;
   left: 0;
@@ -579,7 +791,6 @@
   right: 5%;
 }
 
-/* Menu fechado por padrão no mobile */
 .navbar-menu {
   list-style-type: none;
   display: none;
@@ -587,7 +798,7 @@
   width: 100%;
   background-color: #000000;
   position: absolute;
-  top: 100%; /* Posição logo abaixo da navbar */
+  top: 100%; 
   left: 0; 
 }
 
@@ -612,7 +823,7 @@
 }
 
 /* Layout de desktop */
-@media (min-width: 768px) {
+@media (min-width: 1025px) {
   .navbar {
     width: 100%;
     display: flex;
@@ -655,9 +866,24 @@
     border-radius: 5px;
     cursor: pointer;
     margin-left: 1rem;
+    position: relative;
+    right: 20%;
   }
 }
 
+@media (min-width: 1440px) {
+  .signup-btn {
+    background-color: #EE6018;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+    position: relative;
+    right: 180%;
+  }
+}
 
 .accordion {
   background-color: black;
