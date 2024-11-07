@@ -1,12 +1,13 @@
 import background from '../images/fundo-login1.jpg';
+import { Link } from 'react-router-dom';
 
-function Login() {  // Corrigido o nome do componente para "Login"
+function Login() {
   return (
     <section className="login-section">
       <img src={background} alt="foto de fundo" className="hero-image" />
       <div className="login-container">
         <form className="login-form">
-          <h1>LOGIN</h1>  {/* Texto corrigido dentro do h1 */}
+          <h1>LOGIN</h1>
           <div className="login-body">
             <label htmlFor="email">E-mail:</label>
             <input type="email" id="email" name="email" placeholder="Digite seu email" required />
@@ -18,10 +19,13 @@ function Login() {  // Corrigido o nome do componente para "Login"
           <div>
             <button type="submit">Login</button>
           </div>
+          <p className="signup-link">
+            Não possui cadastro? <Link to="/signup">Cadastre-se aqui!</Link>
+          </p>
         </form>
       </div>
     </section>
   );
 }
 
-export default Login;  // Componente exportado corretamente com letra maiúscula
+export default Login;
