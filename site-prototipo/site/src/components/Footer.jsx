@@ -9,23 +9,31 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-site">
-          <a href="https://www.lollapaloozabr.com/">lollapaloozabr.com</a>
+          <a href="https://www.lollapaloozabr.com/"> Lollapaloozabr.com</a>
         </div>
-        <div className="footer-social">
+        <div>
           <a href="https://www.tiktok.com/@lollapaloozabr?">
-          <img src={tiktokIcon} alt="icone do tiktok" className='footer-icons'/>
+            <img src={tiktokIcon} alt="icone do tiktok" className='footer-icons'/>
           </a>
+        </div>
+        <div>
           <a href="https://www.instagram.com/lollapaloozabr/">
-          <img src={instaIcon} alt="icone do instagram" className='footer-icons'/>
+            <img src={instaIcon} alt="icone do instagram" className='footer-icons'/>
           </a>
+        </div>
+        <div>
           <a href="https://x.com/lollapaloozabr">
-          <img src={twitterIcon} alt="icone do twitter" className='footer-icons'/>
+            <img src={twitterIcon} alt="icone do twitter" className='footer-icons'/>
           </a>
+        </div>
+        <div>
           <a href="https://www.youtube.com/lollapaloozabr">
-          <img src={youtubeIcon} alt="icone do youtube" className='footer-icons'/>
+            <img src={youtubeIcon} alt="icone do youtube" className='footer-icons'/>
           </a>
+        </div>
+        <div>
           <a href="https://www.facebook.com/LollapaloozaBR">
-          <img src={facebookIcon} alt="icone do facebook" className='footer-icons'/>
+            <img src={facebookIcon} alt="icone do facebook" className='footer-icons'/>
           </a>
         </div>
       </div>
