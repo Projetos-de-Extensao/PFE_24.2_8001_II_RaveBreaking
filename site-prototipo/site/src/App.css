@@ -195,7 +195,7 @@
   padding: 0.5rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 6rem;
+  margin-left: 15rem;
   font-size: medium;
 }
 
@@ -260,15 +260,63 @@
 }
 
 
-.mapaImg {
+
+/*Estilo para a página do mapa do festival */
+
+.legenda-mapa-fest{
+  color: white;
+  text-align: left;
+
+}
+
+.local-div {
+  display: grid;
+  gap: 20px;
+  width: 100%;
   position: relative;
-  top: 0;
-  left:0;
+  top: 8vh
+}
+
+.mapaImg {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  z-index: -1; /* imagem abaixo do texto */
+  z-index: -1;
+  border-radius: 50px;
 }
+
+.mapaLeg{
+  border-radius: 20px;
+}
+
+@media (min-width: 1024px) {
+  .legenda-mapa-fest {
+    text-align: center; /* Alinha o texto ao centro em telas grandes */
+  }
+
+  .local-div {
+    display: grid;
+    gap: 30px; /* Ajusta o espaçamento para telas maiores */
+    width: 80%; /* Define a largura da div em 80% da tela */
+    position: relative;
+    top: 5vh; /* Ajusta o topo para um valor mais adequado para desktop */
+    margin: 0 auto; /* Centraliza a div */
+  }
+
+  .mapaImg {
+    width: 80%; /* Define a largura da imagem para 80% da div pai */
+    height: auto; /* Mantém a proporção da imagem */
+    z-index: -1;
+    border-radius: 30px; /* Ajusta o arredondamento da borda para a imagem */
+  }
+
+  .mapaLeg {
+    border-radius: 30px; /* Ajusta o arredondamento da borda em telas grandes */
+    width: 100%;
+  }
+
+}
+
+
 
 /* Estilos da signup page */
 .signup-container {
@@ -633,7 +681,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: #000000;
-  padding: 10px 20px;
+  padding: 5px 20px;
   position: fixed;
   top: 0;
   left: 0;
@@ -656,7 +704,6 @@
   right: 5%;
 }
 
-/* Menu fechado por padrão no mobile */
 .navbar-menu {
   list-style-type: none;
   display: none;
@@ -664,7 +711,7 @@
   width: 100%;
   background-color: #000000;
   position: absolute;
-  top: 100%; /* Posição logo abaixo da navbar */
+  top: 100%; 
   left: 0; 
 }
 
