@@ -11,14 +11,6 @@ import Turismo from './pages/Turismo.jsx';
 import GastronomiaRestaurantes from './pages/Gastronomia.jsx';
 import Lineup from './pages/LineUp.jsx';
 import Gps from './pages/Gps.jsx';
-<<<<<<< HEAD:src/App.jsx
-import styled from 'styled-components';
-import { useState, useEffect } from 'react';
-import Dropdown from './components/Dropdown';
-import MapView from './components/MapView';
-
-=======
->>>>>>> c0be0d319d7f26847c2283df8b0993aa6c9b27d8:site-prototipo/site/src/App.jsx
 
 function App() {
   return (
