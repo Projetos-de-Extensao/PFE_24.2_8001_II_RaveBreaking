@@ -1,19 +1,22 @@
 import mapa from '../images/mapa-festival.png'
-import styled from 'styled-components';
+import legenda from '../images/legenda-festival.png'
 
-const MapaImg = styled.img`
-position: relative;
-top: 0;
-left:0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: -1; /* imagem abaixo do texto */
-`;
-
-function MapaEvento(){
+function MapaEvento() {
   return (
-      <MapaImg src={mapa} alt="mapa dp festival"/>
+        <div className='local-div'>
+          <div>
+            <h1 className='legenda-mapa-fest'>Mapa do festival</h1>
+          </div>
+          <div>
+            <img src={mapa} alt="mapa dp festival" className="mapaImg"/>
+          </div>
+          <div>
+            <h2 className='legenda-mapa-fest'>Legenda ampliada:</h2>
+          </div>
+          <div>
+            <img src={legenda} alt="legenda ampliada do festival" className="mapaLeg"/>
+          </div>
+        </div>
   )
 }
 
