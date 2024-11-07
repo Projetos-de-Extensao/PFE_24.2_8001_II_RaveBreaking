@@ -426,7 +426,6 @@
 }
 
 
-
 /* Estilos da signup page */
 .signup-container {
   background-color: rgba(44, 44, 44, 0.776);
@@ -844,7 +843,7 @@
 }
 
 /* Layout de desktop */
-@media (min-width: 768px) {
+@media (min-width: 1025px) {
   .navbar {
     width: 100%;
     display: flex;
@@ -887,9 +886,24 @@
     border-radius: 5px;
     cursor: pointer;
     margin-left: 1rem;
+    position: relative;
+    right: 20%;
   }
 }
 
+@media (min-width: 1440px) {
+  .signup-btn {
+    background-color: #EE6018;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+    position: relative;
+    right: 180%;
+  }
+}
 
 .accordion {
   background-color: black;
