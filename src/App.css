@@ -48,27 +48,6 @@
   padding-bottom: 400px;
 }
 
-.hero-content {
-  color: white;
-  padding: 40px 60px;
-  border-radius: 10px;
-  background-color: rgba(33, 33, 33, 0.5);
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.hero-image {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: auto;
-  height: auto;
-  object-fit: cover;
-  z-index: -1; /* imagem abaixo do texto */
-}
-
-
 
 /* Estilos da página sobre nós */
 .sobre {
@@ -77,15 +56,7 @@
   padding-bottom: 400px;
 }
 
-.sobre-content {
-  color: white;
-  padding: 40px 60px;
-  border-radius: 10px;
-  background-color: rgba(0, 0, 0, 0.646);
-  justify-content: center;
-  align-items: center;
-  text-align: left;
-}
+
 
 .sobre-content a {
   font-size: 1.3em;
@@ -260,6 +231,8 @@
 }
 
 
+<<<<<<< HEAD:src/App.css
+=======
 
 /*Estilo para a página do mapa do festival */
 
@@ -426,6 +399,7 @@
 }
 
 
+>>>>>>> c0be0d319d7f26847c2283df8b0993aa6c9b27d8:site-prototipo/site/src/App.css
 /* Estilos da signup page */
 .signup-container {
   background-color: rgba(44, 44, 44, 0.776);
