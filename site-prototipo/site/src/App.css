@@ -516,6 +516,23 @@
   }
 }
 
+.login-redirect {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.login-redirect a {
+  color: #1ace35;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.login-redirect a:hover {
+  text-decoration: underline;
+  color: #ff0000;
+}
+
+
 .mapaImg {
   position: relative;
   width: 100%;
