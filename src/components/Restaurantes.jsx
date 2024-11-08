@@ -1,8 +1,8 @@
-/*
+
 import choripane1 from '../images/restaurante/choripane1.jpg'
-import choripapas from '../images/restaurante/choripapas.jpg'
+import choripapas from '../images/restaurante/choripapas.jpeg'
 import empanadaa from '../images/restaurante/empanada-a.png'
-import empanadaq from '../images/restaurante/empanada-q.jpeg'*/
+import empanadaq from '../images/restaurante/empanada-q.jpeg'
 import empanadac from '../images/restaurante/empanada-c.jpg'
 import thenash from '../images/restaurante/nash-thenash.jpg'
 import nashbalde from '../images/restaurante/baldenash.jpeg'

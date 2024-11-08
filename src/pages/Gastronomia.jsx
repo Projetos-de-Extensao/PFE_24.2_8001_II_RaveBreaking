@@ -7,7 +7,7 @@ function GastronomiaRestaurantes(){
         <>
         <NavBar />
 
-        <Restaurantes/>
+        <Restaurantes />
     
         <Footer />
         </>
