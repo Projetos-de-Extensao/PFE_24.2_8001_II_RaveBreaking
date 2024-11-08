@@ -834,7 +834,7 @@
   padding: 0;
 }
 
-/* Layout de desktop */
+
 @media (min-width: 1025px) {
   .navbar {
     width: 100%;
@@ -866,7 +866,6 @@
 
   .navbar-menu li {
     border-top: none;
-
     padding: 0;
   }
   
@@ -893,9 +892,11 @@
     cursor: pointer;
     margin-left: 1rem;
     position: relative;
-    right: 180%;
+    right: 190%;
   }
 }
+
+
 
 .accordion {
   background-color: black;
