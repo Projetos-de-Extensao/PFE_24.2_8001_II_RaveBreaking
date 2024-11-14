@@ -12,6 +12,7 @@ import choribacon from '../images/restaurante/chori-bacon-01.jpg'
 function Restaurantes(){
     return (
         <>
+        <div className='grid-res'>
         <div className="topo-res">
             Confira as opções de restaurantes presentes no festival
         </div>
@@ -76,6 +77,7 @@ function Restaurantes(){
                 <p className='item-res-desc'>Brioche, maionese, parmesão e coentro e sobrecoxa</p>
                 <img src={undernash} alt='' className='item-res-img'/>
             </div>
+        </div>
         </div>
         </>
     )

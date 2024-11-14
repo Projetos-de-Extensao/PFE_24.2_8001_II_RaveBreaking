@@ -203,12 +203,17 @@
   height: 20px;
 }
 
-
-@media (min-width: 1024px) {
+@media (min-width: 768px) {
   .footer {
     padding: 20px;
     width: 100%;
     box-sizing: border-box;
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer {
+    padding: 20px;
   }
 
   .footer-container {
@@ -475,7 +480,7 @@
   }
 
   .hero-image {
-    max-width: auto;
+    max-width: 100%;
     margin-bottom: 2rem;
   }
 
@@ -671,6 +676,12 @@
   flex-direction: row;
 }
 
+.grid-res{
+  display: grid;
+  position: relative;
+  grid-template-columns: auto;
+}
+
 .topo-res{
   margin-top: 20%;
   margin-bottom: 4%;
@@ -757,6 +768,26 @@
   width: 6.5rem;
 }
 
+@media (min-width: 764px) {
+  .topo-res{
+    margin-top: 10%;
+  }
+
+  .restaurantes-conteiner{
+    margin-bottom: 10%;
+  }
+
+  .restaurantes-conteiner-ultimo{
+    margin-bottom: 18%;
+  }
+
+  .item-res1, .item-res2, .item-res3{
+    width: 100%;
+    height: 100%;
+  }
+
+}
+
 @media (min-width: 1024px) {
 
   .topo-res{
@@ -772,13 +803,16 @@
   .restaurantes-conteiner, .restaurantes-conteiner-ultimo{
     display: grid;
     position: relative;
-    gap: 1.5rem;
+    gap: 2%;
     width: 100%;
     grid-template-areas:
     "a a a"
     "b c d"
     ;
     margin-bottom: 2rem;
+    justify-content: center;
+    left: auto;
+    right: auto;
   }
 
   .restaurantes-conteiner-ultimo{
@@ -788,7 +822,7 @@
   .nome-res{
     grid-area: a;
     justify-content: flex-start;
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
 
   .item-res1{
@@ -805,7 +839,7 @@
 
   .item-res1, .item-res2, .item-res3{
     display: grid;
-    gap: 1%;
+    gap: 0%;
     grid-template-areas: 
         "e g"
         "f g" 
@@ -815,11 +849,17 @@
     border-style: solid;
     border-radius: 10px;
     border-color: orange;
-    width: 30rem;
-    height: 15rem;
+    width: 100%;
+    height: 12rem;
     justify-content: center;
     align-items: center;
     position: relative;
+    margin-right: 1.3rem;
+  }
+
+  .item-res1:hover, .item-res2:hover, .item-res3:hover{
+    background-color: rgb(194, 114, 17);
+    transform: scale(1.05);
   }
 
   .item-res-nome{
@@ -827,8 +867,8 @@
     position: relative;
     grid-area: e;
     justify-content: center;
-    font-size: 1.5rem;
-    width: 13rem;
+    font-size: 1.2rem;
+    width: 12rem;
   }
   
   .item-res-desc{
@@ -836,7 +876,7 @@
     position: relative;
     grid-area: f;
     justify-content: center;
-    font-size: 1.1rem;
+    font-size: 1rem;
     width: 12rem;
     margin-bottom: 2rem;
   }
@@ -847,8 +887,8 @@
     justify-content: center;
     border-radius: 10px;
     grid-area: g;
-    height: 12rem;
-    width: 14rem;
+    height: 9rem;
+    width: 10rem;
   }
 
 }
