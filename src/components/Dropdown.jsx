@@ -7,7 +7,7 @@ const Dropdown = ({ selectedPlace, setSelectedPlace }) => {
     };
 
     return (
-        <select value={selectedPlace} onChange={handleChange}>
+        <select id="select-dropdown" value={selectedPlace} onChange={handleChange}>
             <option value="hospital">Hospitais</option>
             <option value="police">Delegacias</option>
             <option value="hotel">Hotéis</option>

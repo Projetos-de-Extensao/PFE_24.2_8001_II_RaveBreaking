@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import lineupimg from '../images/lineup.jpg'
 
 const Table = styled.table`
   width: 100%;
@@ -16,7 +17,6 @@ const TableHeader = styled.th`
   border: 1px white solid;
   font-family: "Inria Sans", sans-serif;
   padding: 2rem;
-  font-size: xx-large;
 `;
 
 const TableCell = styled.td`
@@ -28,14 +28,17 @@ const TableCell = styled.td`
   color: #ccc;  
   font-weight: 500;
   font-style:normal;
-  font-size: x-large;
   padding: 2rem; 
 `;
 
 function TableLineUp() {
-    return(
-        
-        
+    return( 
+        <div>
+            <div className='conteiner-line-up-img'>
+                <img src={lineupimg} alt='' className='img-line-up'/>
+                <h1 className='data-line-up'>SEXTA-FEIRA (28 DE MARÇO)</h1>
+            </div>
+
         <div className="conteiner-tabelas-line-up">
             <Table>  
             <TableHeader colSpan={2}>Palco A</TableHeader>
@@ -104,6 +107,7 @@ function TableLineUp() {
             
         </Table>
 
+        </div>
         </div>
           
     );

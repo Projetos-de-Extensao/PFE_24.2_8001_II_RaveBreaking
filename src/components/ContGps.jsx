@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react';
 import Dropdown from './Dropdown.jsx';
 import MapView from './Mapview.jsx';
+import styled from 'styled-components';
+import  BackGroundImage  from './HeroImage';
 
 function ContGps() {
     const [userLocation, setUserLocation] = useState(null);
@@ -34,12 +36,25 @@ function ContGps() {
             fetchPlaces();
         }
     }, [userLocation, selectedPlace]);
+
+
+    const MapContainer = styled.div`
+    color: white;
+    padding: 40px 60px;
+    border-radius: 10px;
+    background-color: rgba(33, 33, 33, 0.8);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: -1;
+    `;
     
     return (
         <div>
-            <h1>Encontre Locais Próximos</h1>
+            <BackGroundImage/>
+            <MapContainer><h1>Encontre Locais Próximos</h1>
             <Dropdown selectedPlace={selectedPlace} setSelectedPlace={setSelectedPlace} />
-            {userLocation && <MapView userLocation={userLocation} places={places} />}
+            {userLocation && <MapView userLocation={userLocation} places={places} />}</MapContainer>
         </div>
     )
 }
