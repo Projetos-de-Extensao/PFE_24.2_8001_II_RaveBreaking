@@ -711,7 +711,7 @@
   font-size: 1.5rem;
 }
 
-.item-res{
+.item-res1, .item-res2, .item-res3{
   display: grid;
   gap: 1%;
   grid-template-areas: 
@@ -755,6 +755,102 @@
   grid-area: b;
   height: 6.5rem;
   width: 6.5rem;
+}
+
+@media (min-width: 1024px) {
+
+  .topo-res{
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    display: flex;
+    position: relative;
+    color: white;
+    font-size: 2.5em;
+    justify-content: center;
+  }
+
+  .restaurantes-conteiner, .restaurantes-conteiner-ultimo{
+    display: grid;
+    position: relative;
+    gap: 1.5rem;
+    width: 100%;
+    grid-template-areas:
+    "a a a"
+    "b c d"
+    ;
+    margin-bottom: 2rem;
+  }
+
+  .restaurantes-conteiner-ultimo{
+    margin-bottom: 5rem;
+  }
+
+  .nome-res{
+    grid-area: a;
+    justify-content: flex-start;
+    font-size: 2.2rem;
+  }
+
+  .item-res1{
+    grid-area: b;
+  }
+
+  .item-res2{
+    grid-area: c;
+  }
+
+  .item-res1{
+    grid-area: d;
+  }
+
+  .item-res1, .item-res2, .item-res3{
+    display: grid;
+    gap: 1%;
+    grid-template-areas: 
+        "e g"
+        "f g" 
+    ;
+    color: white;
+    background-color: #000000;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: orange;
+    width: 30rem;
+    height: 15rem;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+  .item-res-nome{
+    display: flex;
+    position: relative;
+    grid-area: e;
+    justify-content: center;
+    font-size: 1.5rem;
+    width: 13rem;
+  }
+  
+  .item-res-desc{
+    display: flex;
+    position: relative;
+    grid-area: f;
+    justify-content: center;
+    font-size: 1.1rem;
+    width: 12rem;
+    margin-bottom: 2rem;
+  }
+  
+  .item-res-img{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    border-radius: 10px;
+    grid-area: g;
+    height: 12rem;
+    width: 14rem;
+  }
+
 }
 
 
