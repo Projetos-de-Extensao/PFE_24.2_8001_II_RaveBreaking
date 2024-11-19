@@ -782,6 +782,53 @@
     height: 100%;
   }
 
+  .topo-res{
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    display: flex;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    justify-content: center;
+  }
+
+  .restaurantes-conteiner, .restaurantes-conteiner-ultimo{
+    display: grid;
+    position: relative;
+    gap: 2%;
+    width: 100%;
+    grid-template-areas:
+    "a a a"
+    "b c d"
+    ;
+    margin-bottom: 2%;
+    justify-content: center;
+    left: auto;
+    right: auto;
+  }
+
+  .nome-res{
+    grid-area: a;
+    justify-content: flex-start;
+    font-size: 1.7rem;
+  }
+
+  .item-res1{
+    grid-area: b;
+  }
+
+  .item-res2{
+    grid-area: c;
+  }
+
+  .item-res1{
+    grid-area: d;
+  }
+
+  .restaurantes-conteiner-ultimo{
+    margin-bottom: 10%;
+  }
+
 }
 
 @media (min-width: 1024px) {
