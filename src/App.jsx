@@ -11,6 +11,8 @@ import Turismo from './pages/Turismo.jsx';
 import GastronomiaRestaurantes from './pages/Gastronomia.jsx';
 import Lineup from './pages/LineUp.jsx';
 import Gps from './pages/Gps.jsx';
+import LineUpSab from './pages/LineupSab.jsx';
+import LineUpDom from './pages/LineupDom.jsx';
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
         <Route path="/mais/turismo" element={<Turismo />} />
         <Route path="/gastronomia/restaurantes" element={<GastronomiaRestaurantes />} />
         <Route path="/lineup/sexta" element={<Lineup />} />
+        <Route path="/lineup/sabado" element={<LineUpSab />} />
+        <Route path="/lineup/domingo" element={<LineUpDom />} />
         <Route path="/mais/gps" element={<Gps />} />
 
         {/* Rota 404 - Página não encontrada */}
