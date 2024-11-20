@@ -189,7 +189,7 @@
 .footer-container {
   display: grid;
   grid-template-columns: 1fr auto auto auto auto auto;
-  gap: 20px; 
+  gap: 20px;
   align-items: center;
 }
 
@@ -199,7 +199,7 @@
 }
 
 .footer-icons {
-  width: 20px; 
+  width: 20px;
   height: 20px;
 }
 
@@ -220,7 +220,7 @@
     display: grid;
     grid-template-columns: 6fr auto auto auto auto auto;
     gap: 30px;
-    align-items: center; 
+    align-items: center;
   }
 
   .footer-site {
@@ -304,7 +304,7 @@
   padding: 2rem;
   position: fixed;
   top: 150px;
-  right: 70px;
+  right: 50px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   border-radius: 8px;
   bottom: 10%;
@@ -517,9 +517,9 @@
 
 .turismo-container {
   display: grid;
-  grid-template-rows: auto auto auto auto auto auto; 
+  grid-template-rows: auto auto auto auto auto auto;
   grid-template-columns: 1fr;
-  grid-template-areas: 
+  grid-template-areas:
         "a"
         "b"
         "c"
@@ -639,7 +639,7 @@
     height: 40rem;
   }
 
-  .turismo-six {  
+  .turismo-six {
     height: 10rem;
   }
 
@@ -650,7 +650,7 @@
   .img-two-turismo {
     width: 90%;
   }
-  
+
   .img-three-turismo{
     width: 90%;
   }
@@ -660,7 +660,7 @@
     font-size: 25px;
     color: white;
   }
-  
+
   .content-two-turismo{
     text-align: center;
     font-size: 25px;
@@ -691,34 +691,34 @@
       "e f";
   }
 
-  .turismo-one { 
-    grid-area: a; 
-    height: 50rem; 
+  .turismo-one {
+    grid-area: a;
+    height: 50rem;
   }
 
-  .turismo-two { 
-    grid-area: b; 
-    height: 50rem; 
+  .turismo-two {
+    grid-area: b;
+    height: 50rem;
   }
 
-  .turismo-three { 
-    grid-area: c; 
-    height: 0.5rem; 
+  .turismo-three {
+    grid-area: c;
+    height: 0.5rem;
   }
 
-  .turismo-four { 
-    grid-area: d; 
-    height: 1rem; 
-  }
-  
-  .turismo-five { 
-    grid-area: e; 
-    height: 50rem; 
+  .turismo-four {
+    grid-area: d;
+    height: 1rem;
   }
 
-  .turismo-six { 
-    grid-area: f; 
-    height: 55rem; 
+  .turismo-five {
+    grid-area: e;
+    height: 50rem;
+  }
+
+  .turismo-six {
+    grid-area: f;
+    height: 55rem;
   }
 
   .img-one-turismo {
@@ -755,14 +755,14 @@
   width: 100%;
   left: 0%;
   top: 10%;
-  
+
 }
 
 .img-line-up {
   position: relative;
   z-index: -1;
   width:100%;
-  
+
 
 }
 
@@ -771,7 +771,7 @@
   flex-wrap: wrap;
   display: flex;
   margin-bottom: 8%;
-  
+
 }
 
 
@@ -824,9 +824,9 @@
 .item-res1, .item-res2, .item-res3{
   display: grid;
   gap: 1%;
-  grid-template-areas: 
+  grid-template-areas:
       "a b"
-      "c b" 
+      "c b"
   ;
   color: white;
   background-color: #000000;
@@ -986,9 +986,9 @@
   .item-res1, .item-res2, .item-res3{
     display: grid;
     gap: 0%;
-    grid-template-areas: 
+    grid-template-areas:
         "e g"
-        "f g" 
+        "f g"
     ;
     color: white;
     background-color: #000000;
@@ -1016,7 +1016,7 @@
     font-size: 1.2rem;
     width: 12rem;
   }
-  
+
   .item-res-desc{
     display: flex;
     position: relative;
@@ -1026,7 +1026,7 @@
     width: 12rem;
     margin-bottom: 2rem;
   }
-  
+
   .item-res-img{
     display: flex;
     position: relative;
@@ -1042,16 +1042,16 @@
 
 .gps-container {
   display: grid;
-  grid-template-rows: auto auto auto auto; 
+  grid-template-rows: auto auto auto auto;
   grid-template-columns: 1fr 1fr;
-  border: 4px solid orange; 
+  border: 4px solid orange;
 }
 
 
 @media (min-width: 768px) {
   .gps-container {
-    grid-template-columns: 1fr 1fr; 
-    border: 3px solid orange; 
+    grid-template-columns: 1fr 1fr;
+    border: 3px solid orange;
   }
 }
 
@@ -1092,8 +1092,8 @@
   width: 100%;
   background-color: #000000;
   position: absolute;
-  top: 100%; 
-  left: 0; 
+  top: 100%;
+  left: 0;
 }
 
 .navbar-menu li {
@@ -1140,9 +1140,9 @@
     padding: 10px 20px;
     position: fixed;
     align-items: center;
-  
+
   }
-  
+
   .menu-toggle {
     display: none; /* Esconder o botão no desktop */
   }
@@ -1164,7 +1164,7 @@
     border-top: none;
     padding: 0;
   }
-  
+
   .signup-btn {
     background-color: #EE6018;
     color: white;
@@ -1238,7 +1238,7 @@
   border-radius: 5px;
   cursor: pointer;
   font-size: medium;
-  margin-bottom: 1rem;  
+  margin-bottom: 1rem;
 
 }
 
@@ -1255,7 +1255,7 @@
     margin-top: 70%;
     flex-wrap: wrap;
     display: flex;
-    
+
   }
 }
 
@@ -1264,7 +1264,7 @@
     margin-top: 75%;
     flex-wrap: wrap;
     display: flex;
-    
+
   }
 }
 
@@ -1274,7 +1274,7 @@
     flex-wrap: wrap;
     display: flex;
     margin-bottom: 8%;
-    
+
   }
   .data-line-up {
     background-color: rgba(0, 0, 0, 0.683);
@@ -1293,7 +1293,7 @@
     grid-template-columns: auto auto auto;
     gap: 1rem;
     margin-bottom: 8%;
-    
+
   }
 
   .img-line-up {
@@ -1303,4 +1303,3 @@
     height: 50vh;
   }
 }
-
