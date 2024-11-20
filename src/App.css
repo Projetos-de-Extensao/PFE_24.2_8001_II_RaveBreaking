@@ -166,7 +166,7 @@
   padding: 0.5rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 10rem;
+  margin-left: 4rem;
   font-size: medium;
 }
 
@@ -517,18 +517,20 @@
 
 .turismo-container {
   display: grid;
-  grid-template-rows: auto auto auto auto; 
-  grid-template-columns: auto auto;
+  grid-template-rows: auto auto auto auto auto auto; 
+  grid-template-columns: 1fr;
   grid-template-areas: 
         "a"
         "b"
         "c"
         "d"
+        "e"
+        "f"
 }
 
 .turismo-one{
   grid-area: a;
-  height: 110%;
+  height: 40rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -537,7 +539,7 @@
 
 .turismo-two{
   grid-area: b;
-  height: 140%;
+  height: 15rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -546,7 +548,7 @@
 
 .turismo-three{
   grid-area: c;
-  height: 120%;
+  height: 30rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -555,11 +557,30 @@
 
 .turismo-four{
   grid-area: d;
-  height: 150%;
+  height: 15rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.turismo-five{
+  grid-area: e;
+  height: 35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.turismo-six{
+  grid-area: f;
+  min-height: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
 }
 
 .img-one-turismo{
@@ -567,6 +588,9 @@
 }
 
 .img-two-turismo {
+  width: 100%;
+}
+.img-three-turismo{
   width: 100%;
 }
 
@@ -582,44 +606,55 @@
   color: white;
 }
 
+.content-three-turismo{
+  text-align: center;
+  font-size: larger;
+  color: white;
+}
+
 .turismo-titulo {
   font-size: xx-large;
   color: white;
 }
 
-@media (min-width: 1024px) {
-  .turismo-container {
-    gap: 100px;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    grid-template-areas:
-      "a b"
-      "d c";
-  }
+@media (min-width: 768px) {
 
   .turismo-one {
-    height: 50rem;
+    height: 40rem;
   }
 
   .turismo-two {
-    height: 50rem;
+    height: 20rem;
   }
 
   .turismo-three {
-    height: 4rem;
+    height: 40rem;
   }
 
   .turismo-four {
-    height: 8rem;
+    height: 20rem;
   }
-  
+
+  .turismo-five {
+    height: 40rem;
+  }
+
+  .turismo-six {  
+    height: 10rem;
+  }
+
   .img-one-turismo{
     width: 90%;
   }
+
   .img-two-turismo {
-    width: 100%;
-    
+    width: 90%;
   }
+  
+  .img-three-turismo{
+    width: 90%;
+  }
+
   .content-one-turismo {
     text-align: center;
     font-size: 25px;
@@ -632,11 +667,79 @@
     color: white;
   }
 
+  .content-three-turismo{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+
   .turismo-titulo {
     font-size: 50px;
     color: white;
   }
 }
+
+@media (min-width: 1024px) {
+  .turismo-container {
+    display: grid;
+    gap: 150px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+      "a b"
+      "d c"
+      "e f";
+  }
+
+  .turismo-one { 
+    grid-area: a; 
+    height: 50rem; 
+  }
+
+  .turismo-two { 
+    grid-area: b; 
+    height: 50rem; 
+  }
+
+  .turismo-three { 
+    grid-area: c; 
+    height: 0.5rem; 
+  }
+
+  .turismo-four { 
+    grid-area: d; 
+    height: 1rem; 
+  }
+  
+  .turismo-five { 
+    grid-area: e; 
+    height: 50rem; 
+  }
+
+  .turismo-six { 
+    grid-area: f; 
+    height: 55rem; 
+  }
+
+  .img-one-turismo {
+    width: 90%;
+  }
+  .img-two-turismo {
+    width: 100%;
+  }
+
+  .content-one-turismo, .content-two-turismo {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+
+  .turismo-titulo {
+    font-size: 50px;
+    color: white;
+  }
+}
+
 
 .data-line-up {
   background-color: rgba(0, 0, 0, 0.683);
@@ -1013,8 +1116,22 @@
   padding: 0;
 }
 
+@media (min-width: 768px) {
+  .signup-btn {
+    background-color: #EE6018;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+    position: relative;
+    right: 14rem;
+  }
+}
 
-@media (min-width: 1025px) {
+
+@media (min-width: 1024px) {
   .navbar {
     width: 100%;
     display: flex;
@@ -1075,6 +1192,19 @@
   }
 }
 
+@media (min-width: 1920px) {
+  .signup-btn {
+    background-color: #EE6018;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 1rem;
+    position: relative;
+    right: 400%;
+  }
+}
 
 
 .accordion {

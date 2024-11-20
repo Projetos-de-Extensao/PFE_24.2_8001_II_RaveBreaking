@@ -1,5 +1,6 @@
 import turismo1 from '../images/Turismo1.png'
 import turismo2 from '../images/Turismo2.jpg'
+import turismo3 from '../images/Turismo3.jpeg'
 
 function ContTurismo() {
     return (
@@ -27,6 +28,19 @@ function ContTurismo() {
                 </div>
                 <div className='turismo-four'>
                     <img src={turismo2} alt= 'imagem 2 da página turismo' className='img-two-turismo'/>
+                </div>
+                <div className='turismo-five'>
+                    <h2 className='turismo-titulo'>Parque Ibirapuera</h2>
+                    <p className='content-three-turismo'>
+                    Um dos parques mais emblemáticos do Brasil, o Parque Ibirapuera é um verdadeiro oásis verde no coração de São Paulo. Com uma 
+                    extensa área que combina lazer, cultura e natureza, o parque oferece espaços para caminhadas, piqueniques, esportes ao ar 
+                    livre e eventos culturais. Aos finais de semana, o parque se torna ponto de encontro de famílias, ciclistas e artistas de 
+                    rua, criando um ambiente vibrante e acolhedor. Não deixe de visitar o Pavilhão da Bienal, o MAM (Museu de Arte Moderna) e a Oca, 
+                    além de explorar as trilhas e apreciar o visual ao redor do lago.
+                    </p>
+                </div>
+                <div className='turismo-six'>
+                    <img src={turismo3} alt= 'imagem 2 da página turismo' className='img-three-turismo'/>
                 </div>
              </div>
 
