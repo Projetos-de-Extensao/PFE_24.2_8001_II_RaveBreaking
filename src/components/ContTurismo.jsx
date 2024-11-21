@@ -40,7 +40,7 @@ function ContTurismo() {
                     </p>
                 </div>
                 <div className='turismo-six'>
-                    <img src={turismo3} alt= 'imagem 2 da página turismo' className='img-three-turismo'/>
+                    <img src={turismo3} alt= 'imagem 3 da página turismo' className='img-three-turismo'/>
                 </div>
              </div>
 
