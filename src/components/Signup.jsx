@@ -1,4 +1,5 @@
 import background from '../images/fundo-login1.jpg';
+import { Link } from 'react-router-dom';
 
 function Signup() {
   return (
@@ -25,6 +26,11 @@ function Signup() {
           </div>
           <div>
             <button type="submit">Cadastrar</button>
+          </div>
+          <div>
+            <p className="signup-link">
+              Já possui cadastro? <Link to="/login">Clique aqui</Link>
+            </p>
           </div>
         </form>
       </div>

@@ -1,6 +1,3 @@
-
-
-
 const Dropdown = ({ selectedPlace, setSelectedPlace }) => {
     const handleChange = (event) => {
         setSelectedPlace(event.target.value);
