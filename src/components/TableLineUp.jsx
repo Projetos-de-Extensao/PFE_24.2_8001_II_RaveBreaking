@@ -45,17 +45,17 @@ function TableLineUp() {
             <tbody>
                 <tr>
                     <TableCell>14h/15h</TableCell>
-                    <TableCell>The Offspring</TableCell>
+                    <TableCell>Jão</TableCell>
                 </tr>
                 
                 <tr>
                     <TableCell>16h/17h</TableCell>
-                    <TableCell>Blink-182</TableCell>
+                    <TableCell>Rufus Du Sol</TableCell>
                 </tr>
 
                 <tr>
                     <TableCell>18h/19h</TableCell>
-                    <TableCell>Jungle</TableCell>
+                    <TableCell>Olivia Rodrigo</TableCell>
                 </tr>
             </tbody>
             
@@ -68,17 +68,17 @@ function TableLineUp() {
             <tbody>
                 <tr>
                     <TableCell>14h/15h</TableCell>
-                    <TableCell>The Offspring</TableCell>
+                    <TableCell>Blancah</TableCell>
                 </tr>
                 
                 <tr>
                     <TableCell>16h/17h</TableCell>
-                    <TableCell>Blink-182</TableCell>
+                    <TableCell>Dead Fish</TableCell>
                 </tr>
 
                 <tr>
                     <TableCell>18h/19h</TableCell>
-                    <TableCell>Jungle</TableCell>
+                    <TableCell>Pluma</TableCell>
                 </tr>
             </tbody>
             
@@ -91,17 +91,17 @@ function TableLineUp() {
             <tbody>
                 <tr>
                     <TableCell>14h/15h</TableCell>
-                    <TableCell>The Offspring</TableCell>
+                    <TableCell>Juyé</TableCell>
                 </tr>
                 
                 <tr>
                     <TableCell>16h/17h</TableCell>
-                    <TableCell>Blink-182</TableCell>
+                    <TableCell>Cashu</TableCell>
                 </tr>
 
                 <tr>
                     <TableCell>18h/19h</TableCell>
-                    <TableCell>Jungle</TableCell>
+                    <TableCell>Jovem Dionisio</TableCell>
                 </tr>
             </tbody>
             

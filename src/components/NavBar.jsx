@@ -41,8 +41,7 @@ function Navbar() {
             title="GASTRONOMIA ▼"
             content={
               <>
-                <Link to="/gastronomia/restaurantes">Restaurantes Locais</Link><br />
-                <Link to="/gastronomia/cardapios">Cardápios</Link>
+                <Link to="/gastronomia/restaurantes">Restaurantes Locais</Link>
               </>
             }
           />
