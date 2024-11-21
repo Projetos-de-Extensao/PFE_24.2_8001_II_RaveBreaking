@@ -287,11 +287,10 @@
   .mapaLeg {
     border-radius: 30px; /* Ajusta o arredondamento da borda em telas grandes */
     width: 100%;
+    margin-bottom: 100px;
   }
 
 }
-
-
 
 
 /* Estilos da página de login */
