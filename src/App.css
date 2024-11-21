@@ -266,6 +266,7 @@
 
 @media (min-width: 1024px) {
   .legenda-mapa-fest {
+    margin-top: 60px;
     text-align: center; /* Alinha o texto ao centro em telas grandes */
   }
 
